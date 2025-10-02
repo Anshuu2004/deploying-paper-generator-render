@@ -34,5 +34,6 @@ COPY . /app/
 EXPOSE 8080
 
 # Run the app using Gunicorn
-CMD ["gunicorn", "-w", "2", "-k", "gthread", "-b", "0.0.0.0:8080", "--threads", "4", "--timeout", "300", "app:app"]
+CMD ["gunicorn", "-w", "1", "-k", "gthread", "-b", "0.0.0.0:8080", "--threads", "2", "--timeout", "300", "app:app"]
+
 
