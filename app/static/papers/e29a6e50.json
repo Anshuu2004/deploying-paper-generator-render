@@ -1,0 +1,182 @@
+{
+  "paper_id": "e29a6e50",
+  "examName": "asdfg",
+  "schoolName": "asdfgdf",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "When dilute hydrochloric acid is added to zinc granules, the products formed are:",
+      "options": [
+        "Zinc hydroxide and hydrogen gas",
+        "Zinc chloride and water",
+        "Zinc chloride and hydrogen gas",
+        "Zinc oxide and water"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Zinc is a metal and reacts with acid (HCl) to form salt (ZnCl₂) and hydrogen gas. Zn + 2HCl → ZnCl₂ + H₂.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "When dilute hydrochloric acid is added to zinc granules, the products formed are:"
+    },
+    {
+      "type": "MCQ",
+      "question": "The inner lining of the small intestine has numerous finger-like projections called Villi. What is the primary function of Villi?",
+      "options": [
+        "To store undigested food temporarily.",
+        "To produce digestive enzymes.",
+        "To increase the surface area for absorption of digested food.",
+        "To filter waste products from the blood."
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Villi increase the surface area of the small intestine, maximizing the efficiency of nutrient absorption.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "The inner lining of the small intestine has numerous finger-like projections called Villi. What is the primary function of Villi?"
+    },
+    {
+      "type": "MCQ",
+      "question": "An electric bulb is rated 220V and 100W. When it is operated at 110V, the power consumed will be:",
+      "options": [
+        "100 W",
+        "50 W",
+        "25 W",
+        "75 W"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "Resistance (R) = V²/P = (220)²/100 = 484 Ohms. When operated at 110V, P' = V'²/R = (110)²/484 = 12100/484 = 25 W.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "An electric bulb is rated 220V and 100W. When it is operated at 110V, the power consumed will be:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following processes leads to variation in sexually reproducing organisms?",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Crossing over during meiosis",
+        "Regeneration"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "Sexual reproduction involves the fusion of gametes and genetic recombination (like crossing over), which are sources of variation, unlike asexual methods.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Which of the following processes leads to variation in sexually reproducing organisms?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which characteristic correctly defines members of a homologous series in Carbon chemistry?",
+      "options": [
+        "They have the same functional group and differ by a -CH₂ group.",
+        "They have different functional groups but the same general formula.",
+        "They have the same molecular mass but different structures.",
+        "They show high reactivity due to presence of double bonds."
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "A",
+      "explanation": "A homologous series consists of compounds having the same general formula, similar chemical properties, the same functional group, and adjacent members differ by a methylene (-CH₂) group.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Which characteristic correctly defines members of a homologous series in Carbon chemistry?"
+    },
+    {
+      "type": "MCQ",
+      "question": "A person needs a lens of power -4.5 D for correcting their vision. Which defect is the person suffering from?",
+      "options": [
+        "Hypermetropia",
+        "Presbyopia",
+        "Cataract",
+        "Myopia"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "A negative power (-4.5 D) indicates a concave lens. Concave lenses are used to correct Myopia (nearsightedness).",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "A person needs a lens of power -4.5 D for correcting their vision. Which defect is the person suffering from?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Balance the following chemical equation and identify the type of reaction shown: Fe₂O₃ + Al → Fe + Al₂O₃",
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "2Al + Fe₂O₃ → 2Fe + Al₂O₃. The reaction type is a Displacement Reaction (specifically, a single displacement reaction where Aluminum displaces Iron from its oxide).",
+      "explanation": "The coefficients 2 are required before Al and Fe to balance the atoms. Since a more reactive metal (Al) displaces a less reactive metal (Fe) from its compound, it is classified as a displacement reaction.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Balance the following chemical equation and identify the type of reaction shown: Fe₂O₃ + Al → Fe + Al₂O₃"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Draw a labelled diagram showing the basic structure of a reflex arc.",
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "The diagram should include the following labels in sequential order: Receptor (sensory organ) → Sensory Neuron → Spinal Cord (Relay/Association Neuron) → Motor Neuron → Effector (Muscle/Gland).",
+      "explanation": "A reflex arc is the pathway followed by the nerve impulse during a reflex action. The five mandatory components are receptor, sensory neuron, relay neuron (in spinal cord), motor neuron, and effector organ.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Draw a labelled diagram showing the basic structure of a reflex arc."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State Fleming’s Left-Hand Rule. Give one application of a device that uses this principle.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Fleming’s Left-Hand Rule states that if we stretch the thumb, forefinger, and middle finger of the left hand such that they are mutually perpendicular: The Forefinger points in the direction of the Magnetic Field (B), the Middle Finger points in the direction of the Current (I), and the Thumb points in the direction of the Force/Motion (F).\nApplication: Electric Motor (or loudspeaker).",
+      "explanation": "The rule helps determine the direction of force experienced by a current-carrying conductor placed in a magnetic field. This principle is fundamental to the operation of the electric motor, which converts electrical energy into mechanical energy.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "State Fleming’s Left-Hand Rule. Give one application of a device that uses this principle."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Aluminum oxide (Al₂O₃) is known as an amphoteric oxide. Explain this property with the help of chemical equations showing its reaction with both an acid and a base.",
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "Amphoteric oxides are metal oxides that show both acidic and basic properties. They react with acids as bases and react with bases as acids.\n1. Reaction with Acid (e.g., HCl):\nAl₂O₃ + 6HCl → 2AlCl₃ + 3H₂O\n(Al₂O₃ acts as a base)\n2. Reaction with Base (e.g., NaOH):\nAl₂O₃ + 2NaOH → 2NaAlO₂ + H₂O (or Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄])\n(Al₂O₃ acts as an acid)",
+      "explanation": "Amphoteric behavior is a key distinction for certain metals like Aluminum and Zinc, allowing them to dissolve in both strong acidic and strong basic solutions.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Aluminum oxide (Al₂O₃) is known as an amphoteric oxide. Explain this property with the help of chemical equations showing its reaction with both an acid and a base."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Differentiate between inherited traits and acquired traits, providing one example for each.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Inherited Traits: These are characteristics passed down from parents to offspring through genes (DNA). They cause changes in the germ cells (sex cells) and are therefore heritable.\nExample: Eye colour, blood group, attached earlobes.\n\nAcquired Traits: These are characteristics developed during an individual's lifetime due to environmental influences, lifestyle, or practice. They do not cause changes in the germ cells and are not passed on to the next generation.\nExample: Learning to swim, damaged finger due to injury, gaining muscle mass through exercise.",
+      "explanation": "The distinction is crucial in the study of evolution and heredity, emphasizing that only changes in the genetic material (inherited traits) can influence the evolutionary path of a species.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Differentiate between inherited traits and acquired traits, providing one example for each."
+    },
+    {
+      "type": "Short Answer",
+      "question": "What is the role of decomposers in an ecosystem? Why is the maintenance of the ozone layer crucial for the survival of life on Earth?",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Role of Decomposers: Decomposers (like bacteria and fungi) break down complex organic matter (dead plants, animals, and waste products) into simple inorganic substances that return to the soil. This process replenishes nutrients necessary for producers (plants) and ensures the cycling of matter in the ecosystem.\n\nCruciality of Ozone Layer: The ozone layer absorbs harmful high-energy Ultraviolet (UV) radiation coming from the sun. Exposure to UV radiation causes skin cancer, cataracts, damage to the immune system in humans, and harmful effects on crop yield and aquatic life. Thus, the ozone layer acts as a protective shield.",
+      "explanation": "This question tests knowledge of both biotic components (decomposers) and environmental protection (ozone layer), key components of the 'Our Environment' chapter.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "What is the role of decomposers in an ecosystem? Why is the maintenance of the ozone layer crucial for the survival of life on Earth?"
+    }
+  ],
+  "summary": {
+    "total_questions": 12,
+    "total_marks": 22
+  }
+}

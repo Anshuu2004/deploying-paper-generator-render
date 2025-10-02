@@ -1,0 +1,328 @@
+{
+  "paper_id": "52bc02a4",
+  "examName": "enough",
+  "schoolName": "hello",
+  "schoolBoard": "CBSE",
+  "class": "9",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which of the following processes is responsible for the cooling effect when liquid evaporates?",
+      "options": [
+        "Condensation",
+        "Sublimation",
+        "Latent heat of fusion",
+        "Latent heat of vaporisation"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "Evaporation causes cooling because the liquid particles absorb energy (latent heat of vaporisation) from the surrounding area to overcome the forces of attraction and change state, thereby lowering the temperature of the surroundings.",
+      "question_type": "MCQ",
+      "id": 15,
+      "source": "AI",
+      "question_text": "Which of the following processes is responsible for the cooling effect when liquid evaporates?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The powerhouse of the cell is:",
+      "options": [
+        "Ribosome",
+        "Mitochondria",
+        "Endoplasmic Reticulum",
+        "Nucleus"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Mitochondria are responsible for cellular respiration and generating ATP, which supplies energy to the cell, hence they are called the powerhouse of the cell.",
+      "question_type": "MCQ",
+      "id": 16,
+      "source": "AI",
+      "question_text": "The powerhouse of the cell is:"
+    },
+    {
+      "type": "MCQ",
+      "question": "A body starts from rest and accelerates uniformly at 2 m/s². What will be its velocity after 5 seconds?",
+      "options": [
+        "5 m/s",
+        "10 m/s",
+        "2 m/s",
+        "20 m/s"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Using the first equation of motion, v = u + at. Since the body starts from rest, u=0. v = 0 + (2 m/s² * 5 s) = 10 m/s.",
+      "question_type": "MCQ",
+      "id": 17,
+      "source": "AI",
+      "question_text": "A body starts from rest and accelerates uniformly at 2 m/s². What will be its velocity after 5 seconds?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Calculate the molar mass of water (H₂O). (Given: Atomic masses H=1 u, O=16 u)",
+      "options": [
+        "17 g/mol",
+        "18 g/mol",
+        "16 g/mol",
+        "20 g/mol"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Molar mass of H₂O = (2 * Mass of H) + (1 * Mass of O) = (2 * 1) + (1 * 16) = 18 g/mol.",
+      "question_type": "MCQ",
+      "id": 18,
+      "source": "AI",
+      "question_text": "Calculate the molar mass of water (H₂O). (Given: Atomic masses H=1 u, O=16 u)"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which kingdom includes organisms that are eukaryotic, multicellular, and possess cell walls but cannot perform photosynthesis?",
+      "options": [
+        "Monera",
+        "Protista",
+        "Fungi",
+        "Plantae"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Fungi are multicellular eukaryotes with cell walls (made of chitin) but are heterotrophic (cannot perform photosynthesis).",
+      "question_type": "MCQ",
+      "id": 19,
+      "source": "AI",
+      "question_text": "Which kingdom includes organisms that are eukaryotic, multicellular, and possess cell walls but cannot perform photosynthesis?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The maximum number of electrons that can be accommodated in the M shell (n=3) of an atom is:",
+      "options": [
+        "2",
+        "8",
+        "18",
+        "32"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "The maximum number of electrons in any shell is given by the formula 2n². For M shell, n=3. Max electrons = 2 * (3)² = 18.",
+      "question_type": "MCQ",
+      "id": 20,
+      "source": "AI",
+      "question_text": "The maximum number of electrons that can be accommodated in the M shell (n=3) of an atom is:"
+    },
+    {
+      "type": "Fill",
+      "question": "The value of acceleration due to gravity (g) is maximum at the _________ of the Earth.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Poles",
+      "explanation": "Due to the Earth's flattening at the poles, the radius is smallest there, leading to the maximum value of g.",
+      "question_type": "Fill in the Blanks",
+      "id": 21,
+      "source": "AI",
+      "question_text": "The value of acceleration due to gravity (g) is maximum at the _________ of the Earth."
+    },
+    {
+      "type": "Fill",
+      "question": "The process of getting rid of unwanted plants (weeds) in the field is called _________.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Weeding",
+      "explanation": "Weeding is the manual or chemical removal of unwanted plants (weeds) that compete with crops for nutrients and light.",
+      "question_type": "Fill in the Blanks",
+      "id": 22,
+      "source": "AI",
+      "question_text": "The process of getting rid of unwanted plants (weeds) in the field is called _________."
+    },
+    {
+      "type": "Fill",
+      "question": "Tissues that are responsible for the movement in our body are the _________ tissues.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Muscular",
+      "explanation": "Muscular tissues are composed of specialized cells (muscle fibres) that contract and relax to cause movement.",
+      "question_type": "Fill in the Blanks",
+      "id": 23,
+      "source": "AI",
+      "question_text": "Tissues that are responsible for the movement in our body are the _________ tissues."
+    },
+    {
+      "type": "Fill",
+      "question": "A substance is said to be a compound if it is composed of two or more elements chemically combined in a fixed _________.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Ratio",
+      "explanation": "Compounds must adhere to the Law of Constant Proportions, meaning the elements are combined in a fixed ratio by mass.",
+      "question_type": "Fill in the Blanks",
+      "id": 24,
+      "source": "AI",
+      "question_text": "A substance is said to be a compound if it is composed of two or more elements chemically combined in a fixed _________."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Why does a person tending to jump out of a moving bus fall forward?",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "This is due to the Law of Inertia (Newton's First Law of Motion). When the person jumps, their entire body is initially moving forward with the velocity of the bus (Inertia of Motion). As their feet hit the ground, the feet stop, but the upper body continues to move forward due to inertia, causing the person to fall forward.",
+      "explanation": "Applies Newton's First Law: the tendency of the body to maintain its state of motion.",
+      "question_type": "Short Answer",
+      "id": 25,
+      "source": "AI",
+      "question_text": "Why does a person tending to jump out of a moving bus fall forward?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Define work done. Under what condition is the work done on an object zero?",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Work done is defined as the product of the force applied on an object and the displacement of the object in the direction of the force (W = F × d).\nWork done is zero under two main conditions:\n1. If the displacement (d) is zero (e.g., pushing a solid wall).\n2. If the force (F) is applied perpendicular (90°) to the direction of displacement (e.g., carrying a load horizontally).",
+      "explanation": "Work requires both force and displacement, and they must be in the same direction or have a component in the same direction.",
+      "question_type": "Short Answer",
+      "id": 26,
+      "source": "AI",
+      "question_text": "Define work done. Under what condition is the work done on an object zero?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Differentiate between tendon and ligament based on their structure and function.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Tendon:\n1. Connects muscle to bone.\n2. Made of white fibrous tissue; great strength but limited flexibility.\nLigament:\n1. Connects bone to bone.\n2. Made of yellow fibrous tissue; very elastic and flexible.",
+      "explanation": "Tendon and ligament are types of specialized connective tissue crucial for skeletal movement and stability. Their primary difference lies in what they connect and their relative elasticity.",
+      "question_type": "Short Answer",
+      "id": 27,
+      "source": "AI",
+      "question_text": "Differentiate between tendon and ligament based on their structure and function."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State the Law of Conservation of Mass. If 10g of Calcium Carbonate decomposes completely to give 4.4g of Carbon Dioxide, what mass of Calcium Oxide will be formed?",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Law of Conservation of Mass states that mass can neither be created nor destroyed in a chemical reaction. The total mass of reactants must equal the total mass of products.\nCalculation:\nReactants: Mass of CaCO₃ = 10 g\nProducts: Mass of CO₂ + Mass of CaO\nAccording to the law: 10 g = 4.4 g + Mass of CaO\nMass of CaO = 10 g - 4.4 g = 5.6 g.",
+      "explanation": "The law provides the basis for balancing chemical equations and calculating unknown masses in a reaction.",
+      "question_type": "Short Answer",
+      "id": 28,
+      "source": "AI",
+      "question_text": "State the Law of Conservation of Mass. If 10g of Calcium Carbonate decomposes completely to give 4.4g of Carbon Dioxide, what mass of Calcium Oxide will be formed?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain Rutherford’s major flaw in his nuclear model of the atom and how Niels Bohr addressed this flaw.",
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "Rutherford's flaw: His model predicted that electrons, revolving in circular orbits, would accelerate and, according to classical electromagnetic theory, should continuously emit energy. This energy loss would cause the electron to spiral into the nucleus, making the atom highly unstable. However, atoms are observed to be stable.\nBohr’s correction: Bohr proposed that electrons occupy specific, discrete orbits (stationary states) and, as long as they remain in these orbits, they do not radiate energy. They only absorb or emit energy when they jump between these fixed energy levels.",
+      "explanation": "Rutherford's model failed to explain atomic stability. Bohr introduced the concept of quantized energy levels to solve this fundamental problem.",
+      "question_type": "Short Answer",
+      "id": 29,
+      "source": "AI",
+      "question_text": "Explain Rutherford’s major flaw in his nuclear model of the atom and how Niels Bohr addressed this flaw."
+    },
+    {
+      "type": "Long Answer",
+      "question": "a) State the Universal Law of Gravitation. b) Derive the mathematical expression for this law. c) How is the value of 'G' determined, and why is it known as the Universal Constant?",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "a) The Universal Law of Gravitation states that every object in the universe attracts every other object with a force which is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.\nb) Derivation: Let M and m be the masses of two objects and r be the distance between their centres. According to the law:\n1. F ∝ M × m\n2. F ∝ 1 / r²\nCombining (1) and (2): F ∝ (M × m) / r²\nIntroducing the constant of proportionality G (Universal Gravitational Constant): F = G (M × m) / r².\nc) The value of G was experimentally determined by Henry Cavendish using a sensitive torsion balance apparatus. G is known as the Universal Constant because its value remains constant throughout the universe, regardless of the nature or size of the interacting bodies or the surrounding environment.",
+      "explanation": "This question tests the understanding of the theoretical, mathematical, and conceptual aspects of gravitation.",
+      "question_type": "Long Answer",
+      "id": 30,
+      "source": "AI",
+      "question_text": "a) State the Universal Law of Gravitation. b) Derive the mathematical expression for this law. c) How is the value of 'G' determined, and why is it known as the Universal Constant?"
+    },
+    {
+      "type": "Long Answer",
+      "question": "Draw a well-labelled diagram of an animal cell. Explain the structure and primary function of the Plasma Membrane and the Endoplasmic Reticulum (ER).",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Diagram: Must show nucleus, plasma membrane, mitochondria, ER (rough and smooth), Golgi apparatus, cytoplasm, etc., clearly labelled.\nPlasma Membrane (Cell Membrane):\nStructure: Composed of a lipid bilayer in which proteins are embedded (fluid mosaic model). It is flexible and selectively permeable.\nFunction: It regulates the movement of substances into and out of the cell (selective permeability). It maintains the cell’s shape and provides protection.\nEndoplasmic Reticulum (ER):\nStructure: A large network of membrane-bound tubules and sheets. It exists as Rough ER (RER, having ribosomes) and Smooth ER (SER, lacking ribosomes).\nFunction: RER is the site for protein synthesis (due to ribosomes) and transport. SER is responsible for the synthesis of lipids, steroids, and detoxification of drugs/poisons.",
+      "explanation": "Requires visual recall and detailed functional knowledge of key eukaryotic organelles.",
+      "question_type": "Long Answer",
+      "id": 31,
+      "source": "AI",
+      "question_text": "Draw a well-labelled diagram of an animal cell. Explain the structure and primary function of the Plasma Membrane and the Endoplasmic Reticulum (ER)."
+    },
+    {
+      "type": "Long Answer",
+      "question": "a) Define the mole concept. b) Calculate the number of moles in 52 g of Helium gas (He). c) Calculate the mass of 0.5 mole of Nitrogen gas (N₂). (Atomic mass He = 4 u, N = 14 u; Avogadro Constant = 6.022 x 10²³ particles/mol).",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "a) The mole is defined as the amount of substance that contains exactly 6.022 × 10²³ elementary entities (atoms, molecules, or ions). This number is the Avogadro constant.\nb) Calculation for Moles in 52 g He:\nMolar mass of He = 4 g/mol.\nNumber of moles = Given Mass / Molar Mass = 52 g / 4 g/mol = 13 moles.\nc) Calculation for Mass of 0.5 mole N₂:\nMolar mass of N₂ = 2 × 14 u = 28 g/mol.\nMass = Number of moles × Molar Mass = 0.5 mol × 28 g/mol = 14 g.",
+      "explanation": "Tests the foundational chemical concept of the mole and the ability to perform mass-to-mole conversions.",
+      "question_type": "Long Answer",
+      "id": 32,
+      "source": "AI",
+      "question_text": "a) Define the mole concept. b) Calculate the number of moles in 52 g of Helium gas (He). c) Calculate the mass of 0.5 mole of Nitrogen gas (N₂). (Atomic mass He = 4 u, N = 14 u; Avogadro Constant = 6.022 x 10²³ particles/mol)."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Describe the main steps involved in the Nitrogen Cycle. Explain the crucial role played by bacteria in this cycle.",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "The Nitrogen Cycle involves four main steps:\n1. Nitrogen Fixation: Conversion of atmospheric nitrogen (N₂) into usable compounds like ammonia (NH₃) or nitrates. This is done primarily by certain bacteria (e.g., Rhizobium in root nodules or free-living blue-green algae).\n2. Ammonification: Conversion of complex organic nitrogen compounds (from dead plants/animals and waste) back into ammonia by decaying bacteria and fungi.\n3. Nitrification: Conversion of ammonia into nitrites by Nitrosomonas bacteria, and then nitrites are converted into nitrates by Nitrobacter bacteria. Plants absorb nitrogen mainly in the form of nitrates.\n4. Denitrification: Conversion of nitrates back into atmospheric nitrogen (N₂) by denitrifying bacteria (e.g., Pseudomonas), completing the cycle.\nCrucial Role of Bacteria: Bacteria are indispensable as they are the only organisms capable of performing nitrogen fixation (breaking the strong N₂ triple bond) and denitrification, thus controlling the flow of nitrogen between the atmosphere and the soil/living matter.",
+      "explanation": "Requires detailed knowledge of this specific biogeochemical cycle and the role of biological agents.",
+      "question_type": "Long Answer",
+      "id": 33,
+      "source": "AI",
+      "question_text": "Describe the main steps involved in the Nitrogen Cycle. Explain the crucial role played by bacteria in this cycle."
+    },
+    {
+      "type": "Match",
+      "question": "Match the items in Column A with the appropriate description/function in Column B.",
+      "options": [
+        {
+          "A": "Plastids",
+          "B": "Protective tissue in plants"
+        },
+        {
+          "A": "Causative agent of AIDS",
+          "B": "Gravity of the moon"
+        },
+        {
+          "A": "Sclerenchyma",
+          "B": "Storage or photosynthesis in plant cells"
+        }
+      ],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Plastids - Storage or photosynthesis in plant cells; Causative agent of AIDS - Virus (HIV); Sclerenchyma - Protective tissue in plants (provides structural support and rigidity).",
+      "explanation": "Plastids (like chloroplasts) handle photosynthesis/storage. AIDS is caused by HIV (a virus). Sclerenchyma provides mechanical strength.",
+      "question_type": "Matching",
+      "id": 34,
+      "source": "AI",
+      "question_text": "Match the items in Column A with the appropriate description/function in Column B."
+    },
+    {
+      "type": "Case Study",
+      "question": "A sound wave emitted by a boat is detected by a microphone at the bottom of a lake. The time interval between the emission of the signal and its reception is 0.4 seconds. If the speed of sound in water is 1500 m/s, answer the following questions:\na) Name the phenomenon responsible for the signal returning to the detector. \nb) Calculate the depth of the lake at that point. \nc) What characteristic of the wave determines its loudness? \nd) If the frequency of the sound wave increases, how does it affect the pitch?",
+      "marks": 4,
+      "difficulty": "Medium",
+      "answer": "a) The phenomenon is Echo or Reflection of Sound.\nb) Calculation: Since the time given (0.4 s) is the round trip time (down and back up).\nDistance = Speed × Time = 1500 m/s × 0.4 s = 600 m.\nDepth of the lake (one way distance) = Total Distance / 2 = 600 m / 2 = 300 m.\nc) The loudness (or intensity) of a sound wave is determined by its Amplitude.\nd) If the frequency of the sound wave increases, the pitch increases (becomes sharper or shriller).",
+      "explanation": "Applies concepts of sound reflection, calculation of distance using speed and time, and characteristics of sound waves (pitch and loudness).",
+      "question_type": "Case Study",
+      "id": 35,
+      "source": "AI",
+      "question_text": "A sound wave emitted by a boat is detected by a microphone at the bottom of a lake. The time interval between the emission of the signal and its reception is 0.4 seconds. If the speed of sound in water is 1500 m/s, answer the following questions:\na) Name the phenomenon responsible for the signal returning to the detector. \nb) Calculate the depth of the lake at that point. \nc) What characteristic of the wave determines its loudness? \nd) If the frequency of the sound wave increases, how does it affect the pitch?"
+    },
+    {
+      "type": "Case Study",
+      "question": "A farmer decides to diversify his income by starting practices that rely on both land and water resources. He plans to start integrated farming involving rearing fish in ponds and keeping beehives near his crops.\na) What is the scientific term for rearing fish on a large scale? \nb) State two differences between Composite Fish Culture and Capture Fishing. \nc) What advantage does the presence of beehives provide to the farmer’s crop production? \nd) Why is proper resource management crucial in integrated farming practices?",
+      "marks": 4,
+      "difficulty": "Medium",
+      "answer": "a) Pisciculture (or Aquaculture).\nb) Composite Fish Culture (CFC) involves culturing 5 or 6 species in a single pond, utilizing all food zones, and aims for high yield in closed systems. Capture fishing involves catching fish from natural water bodies (seas, rivers) where yields are unpredictable.\nc) Bees act as excellent pollinators. Their presence increases the efficiency of pollination of the crops, leading to better seed setting and higher overall yields.\nd) Proper resource management (e.g., managing nutrient runoff from fish waste to fertilize crops, or using agricultural waste as fish food) minimizes waste, optimizes resource utilization, and reduces environmental impact, making the system economically viable and sustainable.",
+      "explanation": "This case study focuses on Improvement in Food Resources, testing knowledge of animal husbandry techniques and resource integration.",
+      "question_type": "Case Study",
+      "id": 36,
+      "source": "AI",
+      "question_text": "A farmer decides to diversify his income by starting practices that rely on both land and water resources. He plans to start integrated farming involving rearing fish in ponds and keeping beehives near his crops.\na) What is the scientific term for rearing fish on a large scale? \nb) State two differences between Composite Fish Culture and Capture Fishing. \nc) What advantage does the presence of beehives provide to the farmer’s crop production? \nd) Why is proper resource management crucial in integrated farming practices?"
+    }
+  ],
+  "summary": {
+    "total_questions": 22,
+    "total_marks": 56
+  }
+}

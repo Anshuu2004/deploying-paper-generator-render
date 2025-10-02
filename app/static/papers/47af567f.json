@@ -1,0 +1,394 @@
+{
+  "paper_id": "47af567f",
+  "examName": "delhi",
+  "schoolName": "punlic",
+  "schoolBoard": "CBSE",
+  "class": "9",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which phenomenon is responsible for the cooling sensation experienced when acetone is poured on the palm?",
+      "options": [
+        "Sublimation",
+        "Condensation",
+        "Evaporation",
+        "Diffusion"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Evaporation causes cooling because the liquid takes latent heat of vaporization from the surroundings (the palm) to change into vapor.",
+      "question_type": "MCQ",
+      "id": 58,
+      "source": "AI",
+      "question_text": "Which phenomenon is responsible for the cooling sensation experienced when acetone is poured on the palm?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which cell organelle is known as the 'suicidal bag' of the cell?",
+      "options": [
+        "Mitochondria",
+        "Lysosome",
+        "Ribosome",
+        "Endoplasmic Reticulum"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Lysosomes contain powerful digestive enzymes and digest worn-out cell parts or the entire cell when damaged.",
+      "question_type": "MCQ",
+      "id": 59,
+      "source": "AI",
+      "question_text": "Which cell organelle is known as the 'suicidal bag' of the cell?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If an object moves with constant velocity, which of the following statements is true regarding the net force acting on it?",
+      "options": [
+        "The net force must be non-zero and constant.",
+        "The net force must be zero.",
+        "The net force is in the direction of motion.",
+        "The object must be extremely heavy."
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "According to Newton's First Law of Motion, if velocity is constant (acceleration is zero), the net external force acting on the object must be zero.",
+      "question_type": "MCQ",
+      "id": 60,
+      "source": "AI",
+      "question_text": "If an object moves with constant velocity, which of the following statements is true regarding the net force acting on it?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The value of acceleration due to gravity (g) at a given point does not depend on:",
+      "options": [
+        "The mass of the Earth.",
+        "The distance from the center of the Earth.",
+        "The mass of the object falling.",
+        "The Universal Gravitational Constant (G)."
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "The formula for g is G*M/R², where M is the mass of the planet and R is the radius/distance. It is independent of the mass of the falling object (m).",
+      "question_type": "MCQ",
+      "id": 61,
+      "source": "AI",
+      "question_text": "The value of acceleration due to gravity (g) at a given point does not depend on:"
+    },
+    {
+      "type": "MCQ",
+      "question": "A sound wave travels from a source to a reflector and returns in 0.4 seconds. If the speed of sound is 340 m/s, what is the distance of the reflector from the source?",
+      "options": [
+        "68 m",
+        "136 m",
+        "170 m",
+        "34 m"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "A",
+      "explanation": "Total distance traveled (2d) = Speed × Time. 2d = 340 m/s × 0.4 s = 136 m. Distance (d) = 136 / 2 = 68 m.",
+      "question_type": "MCQ",
+      "id": 62,
+      "source": "AI",
+      "question_text": "A sound wave travels from a source to a reflector and returns in 0.4 seconds. If the speed of sound is 340 m/s, what is the distance of the reflector from the source?"
+    },
+    {
+      "type": "MCQ",
+      "question": "What is the primary objective of integrated fish farming?",
+      "options": [
+        "To increase the yield of only one type of fish.",
+        "To use common animal waste (e.g., poultry droppings) as feed for fish.",
+        "To restrict the growth of beneficial microorganisms.",
+        "To practice monoculture in large ponds."
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Integrated fish farming combines fish culture with other farming practices (like poultry or rice fields) to maximize resource utilization and use waste products as feed or fertilizer, reducing input costs.",
+      "question_type": "MCQ",
+      "id": 63,
+      "source": "AI",
+      "question_text": "What is the primary objective of integrated fish farming?"
+    },
+    {
+      "type": "Fill",
+      "question": "The number of moles present in 88 grams of Carbon Dioxide (CO₂) is __________. (Atomic masses: C=12 u, O=16 u)",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "2",
+      "explanation": "Molar mass of CO₂ = 12 + 2(16) = 44 g/mol. Moles = Given Mass / Molar Mass = 88 g / 44 g/mol = 2 moles.",
+      "question_type": "Fill in the Blanks",
+      "id": 64,
+      "source": "AI",
+      "question_text": "The number of moles present in 88 grams of Carbon Dioxide (CO₂) is __________. (Atomic masses: C=12 u, O=16 u)"
+    },
+    {
+      "type": "Fill",
+      "question": "The discovery of the electron was made by J.J. Thomson using the __________ ray experiment.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "cathode",
+      "explanation": "J.J. Thomson discovered electrons through the cathode ray experiment.",
+      "question_type": "Fill in the Blanks",
+      "id": 65,
+      "source": "AI",
+      "question_text": "The discovery of the electron was made by J.J. Thomson using the __________ ray experiment."
+    },
+    {
+      "type": "Fill",
+      "question": "__________ tissues are composed of elongated cells that provide flexibility and structural support to plant parts like leaf stalks without extensive rigidity.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Collenchyma",
+      "explanation": "Collenchyma is the simple permanent tissue that provides mechanical support and flexibility in plants.",
+      "question_type": "Fill in the Blanks",
+      "id": 66,
+      "source": "AI",
+      "question_text": "__________ tissues are composed of elongated cells that provide flexibility and structural support to plant parts like leaf stalks without extensive rigidity."
+    },
+    {
+      "type": "Fill",
+      "question": "When an object covers equal distances in equal intervals of time, it is said to be in __________ motion.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "uniform",
+      "explanation": "Uniform motion is defined by constant speed covering equal distances in equal time intervals.",
+      "question_type": "Fill in the Blanks",
+      "id": 67,
+      "source": "AI",
+      "question_text": "When an object covers equal distances in equal intervals of time, it is said to be in __________ motion."
+    },
+    {
+      "type": "Fill",
+      "question": "Diseases that are caused by microbial agents and can spread from an infected person to a healthy person are called __________ diseases.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "infectious (or communicable)",
+      "explanation": "Infectious diseases are those caused by pathogens that spread through various means.",
+      "question_type": "Fill in the Blanks",
+      "id": 68,
+      "source": "AI",
+      "question_text": "Diseases that are caused by microbial agents and can spread from an infected person to a healthy person are called __________ diseases."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain the principle and one major application of the technique of centrifugation in separating mixtures.",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Principle: Centrifugation is based on the principle that denser particles are forced to the bottom and lighter particles stay at the top when spun rapidly. This is due to the operation of centrifugal force which is proportional to the density of the particles.\nApplication: Used in diagnostic laboratories for blood and urine testing; used in dairies to separate cream from milk; used in washing machines to squeeze water from wet clothes.",
+      "explanation": "Centrifugation uses rapid spinning to separate components based on density difference, widely used in various fields including dairy and medical labs.",
+      "question_type": "Short Answer",
+      "id": 69,
+      "source": "AI",
+      "question_text": "Explain the principle and one major application of the technique of centrifugation in separating mixtures."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State the three criteria used by R.H. Whittaker for the classification of organisms into the Five Kingdom System.",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "The three main criteria used by R.H. Whittaker (1969) for the Five Kingdom Classification were:\n1. Cell Structure (Prokaryotic or Eukaryotic).\n2. Mode of Nutrition (Autotrophic or Heterotrophic).\n3. Body Organization (Unicellular or Multicellular).",
+      "explanation": "This is a recall question focusing on the fundamental principles of the widely accepted five-kingdom classification system.",
+      "question_type": "Short Answer",
+      "id": 70,
+      "source": "AI",
+      "question_text": "State the three criteria used by R.H. Whittaker for the classification of organisms into the Five Kingdom System."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A gun of mass 4 kg fires a bullet of mass 50 g with a muzzle velocity of 35 m/s. Calculate the recoil velocity of the gun. (Assume the gun and bullet were initially at rest.)",
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "According to the Law of Conservation of Momentum:\nInitial Momentum (Pᵢ) = Final Momentum (Pғ)\nPᵢ = 0 (Gun and bullet are at rest).\nPғ = (Mass of gun × Recoil Velocity) + (Mass of bullet × Bullet Velocity)\nMass of gun (M₁) = 4 kg\nMass of bullet (M₂) = 50 g = 0.05 kg\nBullet velocity (V₂) = 35 m/s\nRecoil velocity (V₁) = ?\n0 = (M₁ * V₁) + (M₂ * V₂)\n0 = (4 kg * V₁) + (0.05 kg * 35 m/s)\n0 = 4V₁ + 1.75\n4V₁ = -1.75\nV₁ = -1.75 / 4 = -0.4375 m/s.\nRecoil Velocity = 0.4375 m/s (The negative sign indicates the direction is opposite to the bullet's motion).",
+      "explanation": "Requires application of the Law of Conservation of Momentum and unit conversion (grams to kilograms), making it complex for calculation under time pressure.",
+      "question_type": "Short Answer",
+      "id": 71,
+      "source": "AI",
+      "question_text": "A gun of mass 4 kg fires a bullet of mass 50 g with a muzzle velocity of 35 m/s. Calculate the recoil velocity of the gun. (Assume the gun and bullet were initially at rest.)"
+    },
+    {
+      "type": "Short Answer",
+      "question": "A force of 10 N acts on an object. The object is displaced by 5 m in the direction of the force. If the force continues to act on the object while the displacement occurs, calculate the work done. If the object takes 2 seconds to cover this distance, what is the power used?",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "1. Work Done (W):\nW = Force (F) × Displacement (s)\nF = 10 N, s = 5 m\nW = 10 N × 5 m = 50 Joules (J).\n2. Power (P):\nP = Work Done (W) / Time (t)\nW = 50 J, t = 2 s\nP = 50 J / 2 s = 25 Watts (W).",
+      "explanation": "Requires applying two distinct formulas: Work = F * s and Power = W / t. Straightforward calculation but tests two concepts.",
+      "question_type": "Short Answer",
+      "id": 72,
+      "source": "AI",
+      "question_text": "A force of 10 N acts on an object. The object is displaced by 5 m in the direction of the force. If the force continues to act on the object while the displacement occurs, calculate the work done. If the object takes 2 seconds to cover this distance, what is the power used?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "List three general methods or principles that can be used to prevent the spread of infectious diseases in a community.",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "General methods for preventing infectious diseases include:\n1. Maintaining public and personal hygiene (e.g., clean drinking water, proper waste disposal, washing hands).\n2. Providing suitable and sufficient nourishment/nutrition to boost the immune system.\n3. Eliminating vectors (carriers) like mosquitoes, flies, or rodents by controlling their breeding grounds.\n4. Implementing specific prevention programs like vaccination for susceptible diseases.",
+      "explanation": "This requires recall of basic public health measures covered in the 'Why Do We Fall Ill' chapter.",
+      "question_type": "Short Answer",
+      "id": 73,
+      "source": "AI",
+      "question_text": "List three general methods or principles that can be used to prevent the spread of infectious diseases in a community."
+    },
+    {
+      "type": "Short Answer",
+      "question": "The atmosphere cannot replenish nitrogen directly. Briefly explain the major steps involved in the Nitrogen Cycle that make nitrogen available to plants.",
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "Atmospheric nitrogen (N₂) must be converted into usable forms through the following steps:\n1. **Nitrogen Fixation:** Conversion of atmospheric N₂ into ammonia (NH₃) or ammonium ions (NH₄⁺) by specialized bacteria (like Rhizobium in root nodules or free-living bacteria) or through physical processes (lightning).\n2. **Nitrification:** Ammonia is oxidized by nitrifying bacteria (Nitrosomonas) into nitrites (NO₂⁻), which are then further oxidized by Nitrobacter into nitrates (NO₃⁻). Nitrates are the form readily absorbed by plants.\n3. **Ammonification:** When plants and animals die, decomposing bacteria convert complex organic compounds containing nitrogen back into ammonia.",
+      "explanation": "Requires understanding and sequencing the complex steps of a biogeochemical cycle, which involves multiple specific microbial roles.",
+      "question_type": "Short Answer",
+      "id": 74,
+      "source": "AI",
+      "question_text": "The atmosphere cannot replenish nitrogen directly. Briefly explain the major steps involved in the Nitrogen Cycle that make nitrogen available to plants."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Describe the structure and mention two key functions each for the Mitochondria and the Endoplasmic Reticulum (ER).",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Mitochondria:\nStructure: Mitochondria are rod-shaped or oval organelles enclosed by a double membrane. The outer membrane is smooth, while the inner membrane is highly folded, creating structures called cristae, which significantly increase the surface area.\nFunctions:\n1. **ATP synthesis:** They are the site of cellular respiration, producing Adenosine Triphosphate (ATP), hence they are called the 'Powerhouse of the Cell'.\n2. **Calcium storage:** They play a role in regulating the concentration of calcium ions in the cytoplasm.\nEndoplasmic Reticulum (ER):\nStructure: The ER is a large network of membrane-bound tubes and sheets (cisternae). It is continuous with the nuclear membrane.\nTypes & Functions:\n1. **Rough Endoplasmic Reticulum (RER):** Has ribosomes attached to its surface. Function: Protein synthesis and modification, and transportation of synthesized proteins.\n2. **Smooth Endoplasmic Reticulum (SER):** Lacks ribosomes. Function: Synthesis of lipids and steroids, and detoxification of drugs and poisons.",
+      "explanation": "Standard cell biology question requiring detailed description of two major organelles and their physiological roles.",
+      "question_type": "Long Answer",
+      "id": 75,
+      "source": "AI",
+      "question_text": "Describe the structure and mention two key functions each for the Mitochondria and the Endoplasmic Reticulum (ER)."
+    },
+    {
+      "type": "Long Answer",
+      "question": "State the Universal Law of Gravitation. Derive the mathematical expression for this law and define the Universal Gravitational Constant (G), specifying its SI unit.",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Universal Law of Gravitation Statement: Every object in the universe attracts every other object with a force which is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.\nDerivation:\nLet M be the mass of object 1 and m be the mass of object 2, separated by a distance d.\n1. The force (F) is directly proportional to the product of masses: $F \\propto M \\times m$ (i)\n2. The force (F) is inversely proportional to the square of the distance: $F \\propto 1/d^2$ (ii)\nCombining (i) and (ii):\n$F \\propto \\frac{M \\times m}{d^2}$\nTo convert this proportionality into an equation, a constant (G) is introduced:\n$F = G \\frac{M \\times m}{d^2}$\nUniversal Gravitational Constant (G):\nG is the constant of proportionality, known as the Universal Gravitational Constant. It represents the gravitational force of attraction between two unit masses placed a unit distance apart.\nSI Unit of G:\nRearranging the equation: $G = \\frac{F \\times d^2}{M \\times m}$\nSI Unit of G = $\\frac{\\text{Newton} \\times (\\text{meter})^2}{\\text{kilogram} \\times \\text{kilogram}} = N \\cdot m^2 / kg^2$.",
+      "explanation": "Requires stating a physical law accurately and performing a mathematical derivation, followed by defining a specific constant and determining its SI unit, which is a complex task.",
+      "question_type": "Long Answer",
+      "id": 76,
+      "source": "AI",
+      "question_text": "State the Universal Law of Gravitation. Derive the mathematical expression for this law and define the Universal Gravitational Constant (G), specifying its SI unit."
+    },
+    {
+      "type": "Long Answer",
+      "question": "a) Define the following characteristics of a sound wave: Wavelength, Frequency, and Speed.\nb) A submarine transmits a SONAR signal which returns from an underwater cliff in 3 seconds. If the speed of sound in water is 1531 m/s, how far away is the cliff?",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "a) Definitions:\n1. **Wavelength (λ):** The distance between two consecutive compressions (C) or two consecutive rarefactions (R) of a sound wave. SI unit is meter (m).\n2. **Frequency (ν):** The number of complete oscillations (cycles) per unit time, or the number of waves passing a point per second. SI unit is Hertz (Hz).\n3. **Speed (v):** The distance traveled by a point on a wave (like a compression or rarefaction) per unit time. Related by $v = \\nu \\lambda$. SI unit is meter per second (m/s).\n\nb) Calculation for SONAR distance:\nTotal time taken for echo (t) = 3 s\nSpeed of sound in water (v) = 1531 m/s\nThe signal travels to the cliff and returns, covering twice the distance (2d).\nTotal Distance = Speed × Time\n$2d = 1531 \\text{ m/s} \\times 3 \\text{ s} = 4593 \\text{ m}$\nDistance to the cliff (d) = $4593 \\text{ m} / 2 = 2296.5 \\text{ m}$.",
+      "explanation": "Part (a) is descriptive recall, and Part (b) is a standard calculation based on reflection/echo principle.",
+      "question_type": "Long Answer",
+      "id": 77,
+      "source": "AI",
+      "question_text": "a) Define the following characteristics of a sound wave: Wavelength, Frequency, and Speed.\nb) A submarine transmits a SONAR signal which returns from an underwater cliff in 3 seconds. If the speed of sound in water is 1531 m/s, how far away is the cliff?"
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain the major divisions within Kingdom Plantae based on whether the plant body is differentiated, and the presence or absence of specialized vascular tissues and seeds. Give an example for each major division.",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Kingdom Plantae is primarily divided into five major groups:\n1. **Thallophyta (Algae):** Plant body is not differentiated into true root, stem, and leaves (thallus). No specialized vascular tissues. Reproduction usually by spores. Example: Spirogyra.\n2. **Bryophyta (Mosses):** Plant body is differentiated into stem-like and leaf-like structures, but lacks true vascular tissue (xylem and phloem). They need water for fertilization (Amphibians of the Plant Kingdom). Example: Funaria (Moss).\n3. **Pteridophyta (Ferns):** Plant body is differentiated into root, stem, and leaves. Possess specialized vascular tissues. They do not produce seeds (cryptogams). Example: Marsilea (Fern).\n4. **Gymnosperms:** Differentiated plant body with vascular tissues. Produce seeds, but the seeds are naked (not enclosed in an ovary/fruit). Example: Pinus (Pine).\n5. **Angiosperms:** Highly differentiated plant body with vascular tissues. Produce seeds that are enclosed within a fruit (flowering plants). Example: Mango, Wheat.",
+      "explanation": "This requires hierarchical recall and comparative analysis of five major phyla based on complex structural features (differentiation, vascularization, seed production).",
+      "question_type": "Long Answer",
+      "id": 78,
+      "source": "AI",
+      "question_text": "Explain the major divisions within Kingdom Plantae based on whether the plant body is differentiated, and the presence or absence of specialized vascular tissues and seeds. Give an example for each major division."
+    },
+    {
+      "type": "Match",
+      "question": "Match the tissue type in Column A with its primary function/characteristic in Column B.",
+      "options": [
+        {
+          "A": "Parenchyma",
+          "B": "A. Provides flexibility"
+        },
+        {
+          "A": "Sclerenchyma",
+          "B": "B. Storage and food assimilation"
+        },
+        {
+          "A": "Striated Muscle",
+          "B": "C. Voluntary movement"
+        }
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Parenchyma - B; Sclerenchyma - D; Striated Muscle - C. (Adding D for Sclerenchyma based on hardness/rigidity)\nCorrection based on available options: Assuming 'Sclerenchyma' should be matched to 'Provides rigidity' which is not in A, B, C. Using the provided list structure: \n{ 'Parenchyma': 'Storage and food assimilation', 'Sclerenchyma': 'Provides mechanical strength/rigidity (Missing suitable option)', 'Striated Muscle': 'Voluntary movement' } \nSince only 3 options are provided, I will adjust the options/A list to ensure a perfect 1:1 match for 3 items.\nAdjusted options to fit 1 mark matching format (A=B, B=C, C=D etc.) is difficult. Using standard format for matching where options list potential answers.",
+      "comment": "Re-formatting as standard match question due to JSON structure limitations for match type.",
+      "match_pairs": [
+        {
+          "A": "Parenchyma",
+          "B": "Storage and assimilation"
+        },
+        {
+          "A": "Collenchyma",
+          "B": "Provides flexibility"
+        },
+        {
+          "A": "Striated Muscle",
+          "B": "Voluntary control"
+        }
+      ],
+      "match_answer": "Parenchyma: Storage and assimilation; Collenchyma: Provides flexibility; Striated Muscle: Voluntary control",
+      "explanation": "Parenchyma is mainly for storage; Collenchyma provides flexibility; Striated muscles are under voluntary control.",
+      "question_type": "Matching",
+      "id": 79,
+      "source": "AI",
+      "question_text": "Match the tissue type in Column A with its primary function/characteristic in Column B."
+    },
+    {
+      "type": "Match",
+      "question": "Match the term related to resources and food improvement in Column A with its description in Column B.",
+      "options": [
+        {
+          "A": "Potable Water",
+          "B": "A. Enhancing crop yield using hybrids"
+        },
+        {
+          "A": "Greenhouse Effect",
+          "B": "B. Water fit for drinking"
+        },
+        {
+          "A": "Hybridization",
+          "B": "C. Trapping of solar radiation by gases"
+        }
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Potable Water - B; Greenhouse Effect - C; Hybridization - A",
+      "explanation": "Potable water is drinking water; Greenhouse effect is atmospheric heat trapping; Hybridization is the technique used in crop improvement.",
+      "question_type": "Matching",
+      "id": 80,
+      "source": "AI",
+      "question_text": "Match the term related to resources and food improvement in Column A with its description in Column B."
+    },
+    {
+      "type": "Case Study",
+      "question": "A car starts from rest and accelerates uniformly at 2 m/s² for 5 seconds. It then travels at a constant velocity for the next 10 seconds. Finally, it decelerates uniformly for 4 seconds to come to rest.\nQ24.1: Calculate the maximum velocity attained by the car.\nQ24.2: Calculate the distance covered during the period of constant velocity.\nQ24.3: Calculate the retardation during the final 4 seconds.",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Q24.1: Maximum velocity (v) is reached after 5 seconds of acceleration.\nUsing v = u + at, where u=0, a=2 m/s², t=5 s.\nv = 0 + (2 m/s² * 5 s) = 10 m/s. (1 mark)\nQ24.2: Distance covered during constant velocity (s₂).\nVelocity = 10 m/s, Time = 10 s.\n$s_2 = v \\times t = 10 \\text{ m/s} \\times 10 \\text{ s} = 100 \\text{ m}$. (2 marks)\nQ24.3: Retardation (a₃) during the final 4 seconds.\nInitial velocity (u) = 10 m/s, Final velocity (v) = 0 m/s, Time (t) = 4 s.\nUsing v = u + at:\n$0 = 10 + a_3(4)$\n$4a_3 = -10$\n$a_3 = -2.5 \\text{ m/s}^2$. The retardation is $2.5 \\text{ m/s}^2$. (2 marks)",
+      "explanation": "Requires stepwise application of kinematic equations ($v=u+at$, $s=vt$) across different phases of motion.",
+      "question_type": "Case Study",
+      "id": 81,
+      "source": "AI",
+      "question_text": "A car starts from rest and accelerates uniformly at 2 m/s² for 5 seconds. It then travels at a constant velocity for the next 10 seconds. Finally, it decelerates uniformly for 4 seconds to come to rest.\nQ24.1: Calculate the maximum velocity attained by the car.\nQ24.2: Calculate the distance covered during the period of constant velocity.\nQ24.3: Calculate the retardation during the final 4 seconds."
+    },
+    {
+      "type": "Case Study",
+      "question": "Consider the elements Hydrogen (H), Deuterium (D), and Tritium (T). All three are isotopes of Hydrogen, meaning they have the same number of protons but different number of neutrons.\nQ25.1: State the number of protons, neutrons, and electrons in Deuterium ($^2_1D$).\nQ25.2: If Hydrogen gas is represented by $H_2$, calculate the molar mass of $D_2$ gas.\nQ25.3: Why do isotopes of the same element show identical chemical properties but slightly different physical properties?",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Q25.1: Deuterium ($^2_1D$):\nProtons = 1 (Atomic number Z=1)\nElectrons = 1 (Neutral atom)\nNeutrons = Mass number - Atomic number = 2 - 1 = 1. (1 mark)\nQ25.2: Molar mass of $D_2$ gas:\nAtomic mass of Deuterium (D) is approximately 2 u (since it has 1 proton and 1 neutron).\nMolar mass of $D_2 = 2 \\times 2 \\text{ g/mol} = 4 \\text{ g/mol}$. (2 marks)\nQ25.3: Chemical properties depend on the number of valence electrons, which determines bonding behavior. Since isotopes have the same number of electrons (and protons), their electron configuration is identical, resulting in identical chemical properties. Physical properties (like density, melting point, or mass) depend on the mass of the atom, which differs due to the varying number of neutrons. (2 marks)",
+      "explanation": "This links atomic structure (isotopes, subatomic particles) with mole concept (molar mass calculation) and requires explaining the core reason for chemical vs. physical property differences in isotopes.",
+      "question_type": "Case Study",
+      "id": 82,
+      "source": "AI",
+      "question_text": "Consider the elements Hydrogen (H), Deuterium (D), and Tritium (T). All three are isotopes of Hydrogen, meaning they have the same number of protons but different number of neutrons.\nQ25.1: State the number of protons, neutrons, and electrons in Deuterium ($^2_1D$).\nQ25.2: If Hydrogen gas is represented by $H_2$, calculate the molar mass of $D_2$ gas.\nQ25.3: Why do isotopes of the same element show identical chemical properties but slightly different physical properties?"
+    }
+  ],
+  "summary": {
+    "total_questions": 25,
+    "total_marks": 61
+  }
+}

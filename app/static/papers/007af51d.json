@@ -1,0 +1,333 @@
+{
+  "paper_id": "007af51d",
+  "examName": "hello",
+  "schoolName": "hellooo",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which among the following organisms reproduces primarily by the method of budding?",
+      "options": [
+        "Amoeba",
+        "Yeast",
+        "Plasmodium",
+        "Leishmania"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Yeast, a unicellular fungus, typically reproduces asexually through budding, where a small outgrowth detaches and matures into a new organism.",
+      "question_type": "MCQ",
+      "id": 198,
+      "source": "AI",
+      "question_text": "Which among the following organisms reproduces primarily by the method of budding?"
+    },
+    {
+      "type": "MCQ",
+      "question": "An object is placed at the center of curvature (C) of a concave mirror. Where is the image formed?",
+      "options": [
+        "At the focus (F)",
+        "Between C and F",
+        "At C",
+        "Beyond C"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "When an object is placed at the center of curvature (C) of a concave mirror, the image is formed at C, and it is real, inverted, and of the same size as the object.",
+      "question_type": "MCQ",
+      "id": 199,
+      "source": "AI",
+      "question_text": "An object is placed at the center of curvature (C) of a concave mirror. Where is the image formed?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The twinkling of stars is primarily caused by which phenomenon?",
+      "options": [
+        "Dispersion of light",
+        "Internal reflection of light",
+        "Atmospheric refraction of light",
+        "Scattering of light"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Stars twinkle because their light undergoes continuous atmospheric refraction due to changing optical densities of the atmosphere.",
+      "question_type": "MCQ",
+      "id": 200,
+      "source": "AI",
+      "question_text": "The twinkling of stars is primarily caused by which phenomenon?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Three resistors, R1, R2, and R3, are connected in series. If R1 = 5 Ω, R2 = 10 Ω, and R3 = 15 Ω, what is the equivalent resistance of the circuit?",
+      "options": [
+        "30 Ω",
+        "15 Ω",
+        "5 Ω",
+        "50 Ω"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "A",
+      "explanation": "In a series connection, the equivalent resistance (Rs) is the sum of individual resistances: Rs = R1 + R2 + R3 = 5 + 10 + 15 = 30 Ω.",
+      "question_type": "MCQ",
+      "id": 201,
+      "source": "AI",
+      "question_text": "Three resistors, R1, R2, and R3, are connected in series. If R1 = 5 Ω, R2 = 10 Ω, and R3 = 15 Ω, what is the equivalent resistance of the circuit?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following is an example of a non-conventional source of energy?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Natural Gas",
+        "Tidal Energy"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "D",
+      "explanation": "Non-conventional (renewable) energy sources include solar, wind, tidal, and geothermal energy. Coal, petroleum, and natural gas are conventional (non-renewable) sources.",
+      "question_type": "MCQ",
+      "id": 202,
+      "source": "AI",
+      "question_text": "Which of the following is an example of a non-conventional source of energy?"
+    },
+    {
+      "type": "MCQ",
+      "question": "During the process of photosynthesis, which substance is released as a by-product?",
+      "options": [
+        "Carbon dioxide",
+        "Water",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Photosynthesis uses CO2 and H2O to produce glucose and releases O2 (oxygen) into the atmosphere.",
+      "question_type": "MCQ",
+      "id": 203,
+      "source": "AI",
+      "question_text": "During the process of photosynthesis, which substance is released as a by-product?"
+    },
+    {
+      "type": "Fill",
+      "question": "An aqueous solution turns red litmus blue. Excess addition of which of the following substances will reverse this change? ___________ (e.g., HCl, NaOH, Sugar)",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "HCl (Hydrochloric acid)",
+      "explanation": "The solution is basic (red litmus turns blue). To reverse this, an acid must be added. HCl is a strong acid.",
+      "question_type": "Fill in the Blanks",
+      "id": 204,
+      "source": "AI",
+      "question_text": "An aqueous solution turns red litmus blue. Excess addition of which of the following substances will reverse this change? ___________ (e.g., HCl, NaOH, Sugar)"
+    },
+    {
+      "type": "Fill",
+      "question": "The SI unit of electric potential difference is ___________.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Volt",
+      "explanation": "Potential difference is measured in Volts (V).",
+      "question_type": "Fill in the Blanks",
+      "id": 205,
+      "source": "AI",
+      "question_text": "The SI unit of electric potential difference is ___________."
+    },
+    {
+      "type": "Fill",
+      "question": "The process of heating a concentrated ore in a limited supply of air to convert it into an oxide is known as __________.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Calcination",
+      "explanation": "Calcination is used for carbonate or hydroxide ores and involves heating strongly in the absence or limited supply of air. Roasting requires excess air.",
+      "question_type": "Fill in the Blanks",
+      "id": 206,
+      "source": "AI",
+      "question_text": "The process of heating a concentrated ore in a limited supply of air to convert it into an oxide is known as __________."
+    },
+    {
+      "type": "Fill",
+      "question": "Plant hormone responsible for the wilting of leaves and promoting dormancy is ___________.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Abscisic acid (ABA)",
+      "explanation": "Abscisic acid (ABA) is a growth inhibitor that promotes dormancy in seeds and buds and causes stomata to close, leading to wilting.",
+      "question_type": "Fill in the Blanks",
+      "id": 207,
+      "source": "AI",
+      "question_text": "Plant hormone responsible for the wilting of leaves and promoting dormancy is ___________."
+    },
+    {
+      "type": "Fill",
+      "question": "In a balanced chemical equation, the total number of atoms of each element remains conserved, following the Law of ___________.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Conservation of Mass",
+      "explanation": "The balancing of chemical equations ensures that the mass of reactants equals the mass of products.",
+      "question_type": "Fill in the Blanks",
+      "id": 208,
+      "source": "AI",
+      "question_text": "In a balanced chemical equation, the total number of atoms of each element remains conserved, following the Law of ___________."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Write a balanced chemical equation for the reaction of Iron (Fe) with steam (H₂O). Name the products formed.",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g). The products formed are Iron (II, III) oxide (or magnetic iron oxide) and Hydrogen gas.",
+      "explanation": "This is a simple displacement reaction where a less reactive element (H) is displaced from water by a more reactive element (Fe) when heated intensely.",
+      "question_type": "Short Answer",
+      "id": 209,
+      "source": "AI",
+      "question_text": "Write a balanced chemical equation for the reaction of Iron (Fe) with steam (H₂O). Name the products formed."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Differentiate between the mechanism of a reflex action and walking, focusing on which part of the nervous system controls each action.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Reflex action is an involuntary, rapid response to stimuli, controlled primarily by the spinal cord (Reflex Arc) without the involvement of conscious thought from the brain. Walking is a voluntary action, a learned coordination controlled by the forebrain (cerebrum) and balanced/coordinated by the cerebellum.",
+      "explanation": "Reflex actions are mediated at the level of the spinal cord for speed and survival. Voluntary actions like walking require higher brain processing.",
+      "question_type": "Short Answer",
+      "id": 210,
+      "source": "AI",
+      "question_text": "Differentiate between the mechanism of a reflex action and walking, focusing on which part of the nervous system controls each action."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain why only 10% of energy is transferred to the next trophic level in a food chain. What happens to the remaining energy?",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "The 10% law states that only about 10% of the energy available at one trophic level is transferred to the next. The remaining 90% is lost primarily through metabolic processes (respiration), heat loss to the environment, and the decomposition of organisms or organic waste that are not consumed by the next trophic level.",
+      "explanation": "Energy flow in an ecosystem is unidirectional and decreases significantly at each subsequent level, limiting the number of trophic levels possible.",
+      "question_type": "Short Answer",
+      "id": 211,
+      "source": "AI",
+      "question_text": "Explain why only 10% of energy is transferred to the next trophic level in a food chain. What happens to the remaining energy?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "A convex lens is used to obtain an image with a magnification of exactly -1. Describe the position of the object and the nature of the image.",
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "Magnification (m) = -v/u. For m = -1, v = u. This occurs when the object is placed at 2F (twice the focal length, or the center of curvature in mirror terms). The nature of the image will be Real, Inverted, and of the Same Size as the object.",
+      "explanation": "A magnification of -1 implies the image is inverted (negative sign) and the size is equal to the object (magnitude 1). This is the standard scenario for object placed at 2F for a convex lens.",
+      "question_type": "Short Answer",
+      "id": 212,
+      "source": "AI",
+      "question_text": "A convex lens is used to obtain an image with a magnification of exactly -1. Describe the position of the object and the nature of the image."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain the two main mechanisms responsible for the versatile nature of carbon, which allows it to form a large number of compounds.",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "The two main mechanisms are:\n1. **Catenation:** Carbon has the unique ability to form bonds with other carbon atoms, resulting in long chains, branched chains, or ring structures. Carbon-Carbon bonds are very strong and stable, allowing for the formation of extremely large molecules.\n2. **Tetravalency:** Carbon has four valence electrons, meaning it requires four electrons to achieve a stable noble gas configuration. It forms four covalent bonds with other atoms (including C, H, O, N, S, Cl, etc.) simultaneously. This ability to bond with multiple elements and form four stable bonds contributes immensely to the diversity of carbon compounds.",
+      "explanation": "Catenation and tetravalency are the foundational properties of carbon chemistry, leading to millions of known organic compounds.",
+      "question_type": "Long Answer",
+      "id": 213,
+      "source": "AI",
+      "question_text": "Explain the two main mechanisms responsible for the versatile nature of carbon, which allows it to form a large number of compounds."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Draw a flowchart showing the breakdown of glucose by different pathways. Clearly differentiate between aerobic respiration and anaerobic respiration in terms of products and energy yield.",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Flowchart:\nGlucose (6-carbon molecule) → (In Cytoplasm) → Pyruvate (3-carbon molecule) + Energy\nPathways from Pyruvate:\n1. **Aerobic Respiration (In Mitochondria, presence of O₂):** Pyruvate → CO₂ + H₂O + Large amount of Energy (38 ATP)\n2. **Anaerobic Respiration (In Muscle Cells, lack of O₂):** Pyruvate → Lactic Acid (3-carbon molecule) + Small amount of Energy (2 ATP)\n3. **Anaerobic Respiration (In Yeast, absence of O₂):** Pyruvate → Ethanol (2-carbon molecule) + CO₂ + Small amount of Energy (2 ATP)\n\nDifferentiation:\nAerobic respiration occurs in the presence of oxygen, yields CO₂ and H₂O, and releases a significantly higher amount of energy (much more efficient). Anaerobic respiration occurs in the absence/lack of oxygen, yields Lactic acid or Ethanol/CO₂, and releases very little energy.",
+      "explanation": "This question tests the core knowledge of cellular respiration pathways and their dependence on oxygen.",
+      "question_type": "Long Answer",
+      "id": 214,
+      "source": "AI",
+      "question_text": "Draw a flowchart showing the breakdown of glucose by different pathways. Clearly differentiate between aerobic respiration and anaerobic respiration in terms of products and energy yield."
+    },
+    {
+      "type": "Long Answer",
+      "question": "A tall pea plant (TT) is crossed with a dwarf pea plant (tt). \n(a) Show the cross clearly using a Punnett square to determine the genotype and phenotype of the F1 progeny. \n(b) If the F1 progeny are self-pollinated, what would be the phenotypic ratio of the F2 generation?",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "(a) Parent Generation: TT (Tall) x tt (Dwarf). Gametes: T and t. F1 Progeny: All Tt. Phenotype: All Tall plants. (Punnett square showing T and t crossing to yield 4 Tt boxes).\n(b) F1 Self-pollination: Tt x Tt. F2 Genotypes: TT, Tt, Tt, tt (1:2:1). F2 Phenotypes: Tall (TT, Tt, Tt) and Dwarf (tt). The phenotypic ratio is 3 (Tall): 1 (Dwarf).",
+      "explanation": "This demonstrates understanding of Mendel's monohybrid cross, dominance, and segregation principles.",
+      "question_type": "Long Answer",
+      "id": 215,
+      "source": "AI",
+      "question_text": "A tall pea plant (TT) is crossed with a dwarf pea plant (tt). \n(a) Show the cross clearly using a Punnett square to determine the genotype and phenotype of the F1 progeny. \n(b) If the F1 progeny are self-pollinated, what would be the phenotypic ratio of the F2 generation?"
+    },
+    {
+      "type": "Long Answer",
+      "question": "State the principle of an electric motor. Draw a labelled diagram and briefly explain the function of the split ring commutator in the working of a DC electric motor.",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Principle: An electric motor works on the principle that when a current-carrying conductor is placed in a magnetic field, it experiences a force (Fleming's Left-Hand Rule).\n\nFunction of Split Ring Commutator: The split ring commutator (or rectifier) is essential for a DC motor. Its function is to reverse the direction of current flowing through the armature coil every half rotation. This reversal ensures that the force acting on the two sides of the coil always continues to rotate the coil in the same direction, thereby maintaining continuous rotation.",
+      "explanation": "This combines theoretical knowledge (principle) with understanding of essential components (commutator) in a common device.",
+      "question_type": "Long Answer",
+      "id": 216,
+      "source": "AI",
+      "question_text": "State the principle of an electric motor. Draw a labelled diagram and briefly explain the function of the split ring commutator in the working of a DC electric motor."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Define sustainable management of natural resources. Suggest three practical methods that can be implemented at an individual level to achieve this goal.",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Sustainable management refers to using resources carefully so that they are not depleted, allowing them to remain available for future generations, while also minimizing damage to the environment during their extraction and use.\n\nThree practical methods (The 3 R’s applied):\n1. **Reduce:** Minimizing consumption of non-renewable resources, e.g., switching off lights/fans when leaving a room, using public transport, or choosing appliances with high energy efficiency.\n2. **Reuse:** Finding secondary uses for items instead of discarding them immediately, e.g., reusing plastic bottles, jars, or cloth bags.\n3. **Recycle:** Collecting and reprocessing waste materials like paper, plastic, and metal to create new products, saving resources and energy required for manufacturing from scratch.",
+      "explanation": "Focuses on environmental responsibility and the core concepts of resource management.",
+      "question_type": "Long Answer",
+      "id": 217,
+      "source": "AI",
+      "question_text": "Define sustainable management of natural resources. Suggest three practical methods that can be implemented at an individual level to achieve this goal."
+    },
+    {
+      "type": "Match",
+      "question": "Match the items in Column A with their correct chemical formula/description in Column B.",
+      "options": [
+        "A. Washing Soda",
+        "B. Highly Reactive Metal",
+        "C. Plaster of Paris",
+        "D. Formation of Curd",
+        "E. Decomposition Reaction"
+      ],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "A. Sodium Carbonate Decahydrate (Na₂CO₃·10H₂O); B. Potassium (K); C. Calcium Sulphate Hemihydrate (CaSO₄·½H₂O); D. Lactic Acid Fermentation; E. Heating Ferrous Sulphate (FeSO₄)",
+      "explanation": "This covers chemistry concepts including salts, reactivity, biological processes, and reaction types.",
+      "question_type": "Matching",
+      "id": 218,
+      "source": "AI",
+      "question_text": "Match the items in Column A with their correct chemical formula/description in Column B."
+    },
+    {
+      "type": "Case",
+      "question": "A scientist conducted an experiment to extract a highly reactive metal 'M' (such as Sodium or Aluminium) from its molten salt. They found that traditional methods like reduction with carbon were ineffective. They decided to use electrolysis.\n\nBased on this information, answer the following:\n1. Why are highly reactive metals not extracted using reduction with carbon?\n2. Which electrode (anode or cathode) will the metal 'M' be deposited at during electrolysis? Justify your answer.\n3. Name one highly reactive metal that is purified using electrolytic refining.",
+      "marks": 4,
+      "difficulty": "Medium",
+      "answer": "1. Highly reactive metals have a high affinity for oxygen and are stronger reducing agents than carbon. Therefore, carbon cannot reduce the oxides or chlorides of these metals to the free metal state.\n2. The metal 'M' (a cation, M+) will be deposited at the Cathode (the negative electrode). This is because cations migrate towards the negative electrode to gain electrons (reduction) and become neutral metal atoms (M+ + e⁻ → M).\n3. Copper (Cu), Zinc (Zn), and Aluminum (Al) are commonly purified using electrolytic refining, although Na/K/Al are extracted using electrolysis.",
+      "explanation": "This case study addresses the metallurgy section, specifically the extraction of reactive metals and the principles of electrolysis.",
+      "question_type": "Case Study",
+      "id": 219,
+      "source": "AI",
+      "question_text": "A scientist conducted an experiment to extract a highly reactive metal 'M' (such as Sodium or Aluminium) from its molten salt. They found that traditional methods like reduction with carbon were ineffective. They decided to use electrolysis.\n\nBased on this information, answer the following:\n1. Why are highly reactive metals not extracted using reduction with carbon?\n2. Which electrode (anode or cathode) will the metal 'M' be deposited at during electrolysis? Justify your answer.\n3. Name one highly reactive metal that is purified using electrolytic refining."
+    },
+    {
+      "type": "Case",
+      "question": "A village population heavily relies on traditional agricultural practices. Due to severe deforestation upstream and the construction of a small river dam for irrigation, the annual floods have stopped, but the village now faces unexpected scarcity of water for non-irrigation uses, and the topsoil quality is deteriorating rapidly.\n\n1. Relate the role of deforestation upstream to the change in water flow observed downstream.\n2. How does the dam construction contribute to the deterioration of topsoil quality?\n3. Suggest one method of rainwater harvesting that could help the villagers mitigate water scarcity.",
+      "marks": 4,
+      "difficulty": "Hard",
+      "answer": "1. Deforestation leads to increased surface runoff and decreased infiltration of water into the ground. Trees usually bind the soil and allow slow release of groundwater. Lack of trees causes rapid runoff, often leading to flash flooding (initially) but less sustained base flow, contributing to eventual scarcity downstream.\n2. Dams prevent the natural flow of nutrient-rich sediment (silt) downriver, which is essential for replenishing the fertility of the downstream floodplain and topsoil. The trapped silt causes the soil downstream to become less fertile over time.\n3. Any valid method of water harvesting: Constructing check dams/bunds across seasonal streams; Rooftop rainwater collection linked to underground storage tanks; or utilization of percolation pits/tanks.",
+      "explanation": "This requires applying knowledge from Management of Natural Resources and Our Environment chapters regarding resource depletion and ecosystem balance.",
+      "question_type": "Case Study",
+      "id": 220,
+      "source": "AI",
+      "question_text": "A village population heavily relies on traditional agricultural practices. Due to severe deforestation upstream and the construction of a small river dam for irrigation, the annual floods have stopped, but the village now faces unexpected scarcity of water for non-irrigation uses, and the topsoil quality is deteriorating rapidly.\n\n1. Relate the role of deforestation upstream to the change in water flow observed downstream.\n2. How does the dam construction contribute to the deterioration of topsoil quality?\n3. Suggest one method of rainwater harvesting that could help the villagers mitigate water scarcity."
+    }
+  ],
+  "summary": {
+    "total_questions": 23,
+    "total_marks": 61
+  }
+}

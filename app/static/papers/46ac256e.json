@@ -1,0 +1,200 @@
+{
+  "paper_id": "46ac256e",
+  "examName": "hello pucliccccc",
+  "schoolName": "sadsad",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which of the following reaction types is correctly represented by the conversion of ferrous sulphate ($\text{FeSO}_4$) into ferric oxide ($\text{Fe}_2\text{O}_3$), sulfur dioxide ($\text{SO}_2$), and sulfur trioxide ($\text{SO}_3$)?",
+      "options": [
+        "Combination reaction",
+        "Decomposition reaction",
+        "Displacement reaction",
+        "Double displacement reaction"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "When ferrous sulphate is heated, it breaks down into simpler substances (ferric oxide, $\text{SO}_2$, and $\text{SO}_3$). This is characteristic of a decomposition reaction.",
+      "question_type": "MCQ",
+      "id": 38,
+      "source": "AI",
+      "question_text": "Which of the following reaction types is correctly represented by the conversion of ferrous sulphate ($\text{FeSO}_4$) into ferric oxide ($\text{Fe}_2\text{O}_3$), sulfur dioxide ($\text{SO}_2$), and sulfur trioxide ($\text{SO}_3$)?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The primary function of Villi in the small intestine is to:",
+      "options": [
+        "Secrete digestive enzymes",
+        "Increase the surface area for absorption of digested food",
+        "Store undigested food materials temporarily",
+        "Initiate the digestion of fats"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Villi are finger-like projections that line the inner walls of the small intestine. They significantly increase the internal surface area, enabling rapid and efficient absorption of nutrients.",
+      "question_type": "MCQ",
+      "id": 39,
+      "source": "AI",
+      "question_text": "The primary function of Villi in the small intestine is to:"
+    },
+    {
+      "type": "MCQ",
+      "question": "An electric heater is rated 1500 W and is operated for 2 hours daily. If the electrical energy costs ₹ 5 per kWh, what is the cost of running the heater for 30 days?",
+      "options": [
+        "₹ 450",
+        "₹ 900",
+        "₹ 225",
+        "₹ 150"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "A",
+      "explanation": "Total Energy (E) = Power (P) × Time (T). P = 1500 W = 1.5 kW. Daily T = 2 hours. E (30 days) = 1.5 kW × 2 h/day × 30 days = 90 kWh. Cost = 90 kWh × ₹ 5/kWh = ₹ 450.",
+      "question_type": "MCQ",
+      "id": 40,
+      "source": "AI",
+      "question_text": "An electric heater is rated 1500 W and is operated for 2 hours daily. If the electrical energy costs ₹ 5 per kWh, what is the cost of running the heater for 30 days?"
+    },
+    {
+      "type": "MCQ",
+      "question": "What is the general molecular formula for the homologous series of Alkynes?",
+      "options": [
+        "$\text{C}_{\text{n}}\text{H}_{2\text{n}+2}$",
+        "$\text{C}_{\text{n}}\text{H}_{2\text{n}}$",
+        "$\text{C}_{\text{n}}\text{H}_{2\text{n}-2}$",
+        "$\text{C}_{\text{n}}\text{H}_{2\text{n}-6}$"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "Alkanes follow $\text{C}_{\text{n}}\text{H}_{2\text{n}+2}$, Alkenes follow $\text{C}_{\text{n}}\text{H}_{2\text{n}}$, and Alkynes (which contain a triple bond) follow $\text{C}_{\text{n}}\text{H}_{2\text{n}-2}$.",
+      "question_type": "MCQ",
+      "id": 41,
+      "source": "AI",
+      "question_text": "What is the general molecular formula for the homologous series of Alkynes?"
+    },
+    {
+      "type": "MCQ",
+      "question": "A convex mirror always produces a virtual, erect, and diminished image, regardless of the position of the object. Which one of the following magnification values (m) is physically possible for a convex mirror?",
+      "options": [
+        "m = +1.5",
+        "m = -0.8",
+        "m = +0.5",
+        "m = -1.0"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "C",
+      "explanation": "For a virtual and erect image, magnification (m) must be positive. Since the image formed by a convex mirror is always diminished, the magnitude of m must be less than 1. Thus, m must be positive and $m < 1$, making +0.5 the only possible value.",
+      "question_type": "MCQ",
+      "id": 42,
+      "source": "AI",
+      "question_text": "A convex mirror always produces a virtual, erect, and diminished image, regardless of the position of the object. Which one of the following magnification values (m) is physically possible for a convex mirror?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Wings of a bat and wings of an insect are considered analogous organs. This classification means they:",
+      "options": [
+        "Have the same structure but different functions, indicating divergent evolution.",
+        "Have different structures but perform the same function, indicating convergent evolution.",
+        "Are vestigial structures that have lost their original function.",
+        "Share a common ancestor and identical bone structures."
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "B",
+      "explanation": "Analogous organs have different basic structures/origins but perform similar functions (like flight), suggesting convergent evolution (organisms adapted similarly to similar environmental pressures).",
+      "question_type": "MCQ",
+      "id": 43,
+      "source": "AI",
+      "question_text": "Wings of a bat and wings of an insect are considered analogous organs. This classification means they:"
+    },
+    {
+      "type": "Fill",
+      "question": "A substance that has a pH value of 9 is considered a/an .......... solution.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "basic (or alkaline)",
+      "explanation": "The pH scale ranges from 0 to 14. A pH greater than 7 indicates a basic (alkaline) solution.",
+      "question_type": "Fill in the Blanks",
+      "id": 44,
+      "source": "AI",
+      "question_text": "A substance that has a pH value of 9 is considered a/an .......... solution."
+    },
+    {
+      "type": "Fill",
+      "question": "The plant hormone primarily responsible for cell elongation and growth in response to light (phototropism) is .......... .",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Auxin",
+      "explanation": "Auxin is a key plant hormone involved in the growth of shoots towards light (positive phototropism) by promoting cell elongation.",
+      "question_type": "Fill in the Blanks",
+      "id": 45,
+      "source": "AI",
+      "question_text": "The plant hormone primarily responsible for cell elongation and growth in response to light (phototropism) is .......... ."
+    },
+    {
+      "type": "Fill",
+      "question": "Bio-gas is primarily composed of methane, which is produced when biomass is decomposed in the absence of oxygen. This process is known as .......... respiration.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "anaerobic",
+      "explanation": "Anaerobic respiration is the decomposition of organic matter in the absence of free oxygen, leading to the production of methane ($\text{CH}_4$). This is the basis for biogas production.",
+      "question_type": "Fill in the Blanks",
+      "id": 46,
+      "source": "AI",
+      "question_text": "Bio-gas is primarily composed of methane, which is produced when biomass is decomposed in the absence of oxygen. This process is known as .......... respiration."
+    },
+    {
+      "type": "Fill",
+      "question": "In the process of electrolytic refining of copper, impure copper is used as the .......... and a thin sheet of pure copper serves as the cathode.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "anode",
+      "explanation": "During electrolytic refining, the impure metal (copper in this case) is connected to the positive terminal and acts as the anode, where it dissolves into the electrolyte.",
+      "question_type": "Fill in the Blanks",
+      "id": 47,
+      "source": "AI",
+      "question_text": "In the process of electrolytic refining of copper, impure copper is used as the .......... and a thin sheet of pure copper serves as the cathode."
+    },
+    {
+      "type": "Fill",
+      "question": "The rule used to determine the direction of the force experienced by a current-carrying conductor placed in a magnetic field is known as .......... Hand Rule.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Fleming's Left",
+      "explanation": "Fleming's Left-Hand Rule gives the direction of motion (Force) when the current direction and magnetic field direction are known. This is the principle of an electric motor.",
+      "question_type": "Fill in the Blanks",
+      "id": 48,
+      "source": "AI",
+      "question_text": "The rule used to determine the direction of the force experienced by a current-carrying conductor placed in a magnetic field is known as .......... Hand Rule."
+    },
+    {
+      "type": "Fill",
+      "question": "Organisms like Planaria exhibit the remarkable ability to cut themselves into several pieces, where each piece grows into a complete new individual. This method of asexual reproduction is called .......... .",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Regeneration",
+      "explanation": "Regeneration is the process of growing a lost body part or, in the case of organisms like Planaria and Hydra, an entire new organism from a fragment.",
+      "question_type": "Fill in the Blanks",
+      "id": 49,
+      "source": "AI",
+      "question_text": "Organisms like Planaria exhibit the remarkable ability to cut themselves into several pieces, where each piece grows into a complete new individual. This method of asexual reproduction is called .......... ."
+    }
+  ],
+  "summary": {
+    "total_questions": 12,
+    "total_marks": 12
+  }
+}

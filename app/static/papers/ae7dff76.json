@@ -1,0 +1,182 @@
+{
+  "paper_id": "ae7dff76",
+  "examName": "asdfg",
+  "schoolName": "asdfgdf",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which of the following is an example of a displacement reaction?",
+      "options": [
+        "2H₂ + O₂ → 2H₂O",
+        "CaCO₃ → CaO + CO₂",
+        "Zn + CuSO₄ → ZnSO₄ + Cu",
+        "NaOH + HCl → NaCl + H₂O"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "In a displacement reaction, a more reactive element displaces a less reactive element from its compound. Zinc (Zn) is more reactive than Copper (Cu).",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Which of the following is an example of a displacement reaction?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If the length of a metallic wire is doubled, keeping the area of cross-section constant, how does its resistance change?",
+      "options": [
+        "It becomes half",
+        "It remains the same",
+        "It becomes double",
+        "It becomes four times"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "Resistance (R) is directly proportional to the length (L) of the conductor (R = ρL/A). If L is doubled, R is also doubled.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "If the length of a metallic wire is doubled, keeping the area of cross-section constant, how does its resistance change?"
+    },
+    {
+      "type": "MCQ",
+      "question": "In humans, where does the maximum absorption of digested food occur?",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Oesophagus"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "The small intestine is the site of complete digestion of carbohydrates, proteins, and fats, and the primary site for nutrient absorption due to the presence of villi.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "In humans, where does the maximum absorption of digested food occur?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following represents the correct general formula for an alkyne series?",
+      "options": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙH₂ₙ₋₁"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "C",
+      "explanation": "Alkanes have CₙH₂ₙ₊₂, Alkenes have CₙH₂ₙ (one double bond), and Alkynes have CₙH₂ₙ₋₂ (one triple bond).",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Which of the following represents the correct general formula for an alkyne series?"
+    },
+    {
+      "type": "MCQ",
+      "question": "A lens has a power of +2.5 D. What is the focal length and the nature of this lens?",
+      "options": [
+        "40 cm, Convex",
+        "-40 cm, Concave",
+        "25 cm, Convex",
+        "-25 cm, Concave"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "A",
+      "explanation": "Power P = 1/f (in meters). f = 1/P = 1/2.5 m = 0.4 m or 40 cm. Since the power is positive (+), the lens is convex (converging).",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "A lens has a power of +2.5 D. What is the focal length and the nature of this lens?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If a male human (XY) inherits a recessive sex-linked trait (e.g., colour blindness), where did he definitely inherit the gene from?",
+      "options": [
+        "His father only",
+        "His mother only",
+        "Both parents",
+        "It is a spontaneous mutation, not inherited"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "B",
+      "explanation": "Sex-linked traits are carried on the X chromosome. Males inherit the Y chromosome from their father and the X chromosome from their mother. If the trait is expressed, the X chromosome inherited from the mother must carry the recessive allele.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "If a male human (XY) inherits a recessive sex-linked trait (e.g., colour blindness), where did he definitely inherit the gene from?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Define pH scale. If a solution has a pH of 9, what is its nature and why?",
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "The pH scale is a measure of the hydrogen ion concentration (H+) in a solution, ranging from 0 (highly acidic) to 14 (highly basic/alkaline). A pH of 7 is neutral. If a solution has a pH of 9, its nature is basic or alkaline, because its pH value is greater than 7.",
+      "explanation": "Tests understanding of the basic definition and interpretation of the pH scale.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Define pH scale. If a solution has a pH of 9, what is its nature and why?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Differentiate between asexual and sexual reproduction based on the number of parents involved and the genetic similarity of the offspring.",
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "Asexual Reproduction: 1. Involves only one parent. 2. Offspring are genetically identical clones of the parent (minimal variation, except due to mutation).\nSexual Reproduction: 1. Usually involves two parents (male and female). 2. Offspring show genetic variation and are not identical to the parents, as they inherit genes from both.",
+      "explanation": "Requires recalling key differences in reproductive strategies essential for evolution and survival.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Differentiate between asexual and sexual reproduction based on the number of parents involved and the genetic similarity of the offspring."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain briefly why stars twinkle but planets do not, when viewed from the Earth.",
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "Stars twinkle because they are very distant and appear almost as point sources of light. As their light enters the Earth's atmosphere, it undergoes multiple refractions due to constantly changing atmospheric conditions (temperature, density), causing the apparent position and intensity to fluctuate (twinkle).\nPlanets, being much closer, appear as extended sources (collections of point sources). The total fluctuation of light received from an extended source averages out, thus cancelling the twinkling effect.",
+      "explanation": "Checks understanding of atmospheric refraction and the apparent size difference between stars and planets.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Explain briefly why stars twinkle but planets do not, when viewed from the Earth."
+    },
+    {
+      "type": "Short Answer",
+      "question": "What is the primary function of the ozone layer? List two major adverse effects resulting from its depletion.",
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "Primary Function: The ozone layer (O₃) present in the stratosphere acts as a shield, absorbing harmful ultraviolet (UV) radiation coming from the sun, preventing it from reaching the Earth's surface.\nAdverse Effects of Depletion: 1. Increase in skin cancer and cataracts in humans. 2. Damage to crops and phytoplankton, affecting the marine food web and agricultural productivity.",
+      "explanation": "Relates the concept of environmental protection and consequences of human impact on the atmosphere.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "What is the primary function of the ozone layer? List two major adverse effects resulting from its depletion."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Draw a labelled diagram of a reflex arc. State the direction of the signal flow.",
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "A labelled diagram should include: Receptor -> Sensory Neuron -> Spinal Cord (Relay Neuron) -> Motor Neuron -> Effector (Muscle/Gland).\nDirection of Signal Flow: Stimulus → Receptor → Sensory Neuron → Relay Neuron (Spinal Cord) → Motor Neuron → Effector → Response.",
+      "explanation": "Assesses basic knowledge of the nervous system structure and function, requiring both diagrammatic representation (implicitly, though labeling the flow is sufficient for 2 marks if the sequence is correct) and process description.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Draw a labelled diagram of a reflex arc. State the direction of the signal flow."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Why are silver and copper not used for making fuses, even though they are excellent conductors of electricity? Which material is ideally used for fuses and why?",
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "Silver and copper are excellent conductors but are not used for fuses because they have high melting points. A fuse is designed to melt and break the circuit when a large current flows. If the wire doesn't melt easily, it defeats the purpose of the safety device.\nIdeally, a fuse is made of an alloy of Lead (Pb) and Tin (Sn) because this alloy has a very low melting point. This ensures that the fuse melts quickly when the current exceeds the safe limit, protecting the circuit and appliances.",
+      "explanation": "Tests understanding of the specific application of materials (Metals and Non-metals) based on their physical properties (melting point) in electrical circuits (Electricity).",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Why are silver and copper not used for making fuses, even though they are excellent conductors of electricity? Which material is ideally used for fuses and why?"
+    }
+  ],
+  "summary": {
+    "total_questions": 12,
+    "total_marks": 18
+  }
+}

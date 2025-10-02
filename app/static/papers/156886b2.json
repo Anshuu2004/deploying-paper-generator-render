@@ -1,0 +1,234 @@
+{
+  "paper_id": "156886b2",
+  "examName": "dsf",
+  "schoolName": "sdf",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "The decomposition of vegetable matter into compost is an example of a/an:",
+      "options": [
+        "Exothermic reaction",
+        "Endothermic reaction",
+        "Displacement reaction",
+        "Neutralization reaction"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "A",
+      "explanation": "Decomposition of organic matter releases heat, hence it is an exothermic process.",
+      "question_type": "MCQ",
+      "id": 221,
+      "source": "AI",
+      "question_text": "The decomposition of vegetable matter into compost is an example of a/an:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which component of blood helps in transporting oxygen from the lungs to the tissues?",
+      "options": [
+        "Platelets",
+        "WBCs",
+        "Plasma",
+        "Haemoglobin"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "Haemoglobin, present in RBCs, binds reversibly to oxygen and transports it throughout the body.",
+      "question_type": "MCQ",
+      "id": 222,
+      "source": "AI",
+      "question_text": "Which component of blood helps in transporting oxygen from the lungs to the tissues?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If the current (I) flowing through a conductor and the potential difference (V) across its ends are kept constant, how does the resistance (R) behave?",
+      "options": [
+        "R decreases",
+        "R increases",
+        "R remains constant",
+        "R becomes zero"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Resistance (R) depends only on the material, length, and area of cross-section of the conductor, assuming these factors are constant.",
+      "question_type": "MCQ",
+      "id": 223,
+      "source": "AI",
+      "question_text": "If the current (I) flowing through a conductor and the potential difference (V) across its ends are kept constant, how does the resistance (R) behave?"
+    },
+    {
+      "type": "MCQ",
+      "question": "A solution turns red litmus blue. Its pH is likely to be:",
+      "options": [
+        "2",
+        "5",
+        "7",
+        "10"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "Turning red litmus blue indicates the solution is basic. Basic solutions have a pH greater than 7. Among the options, 10 is the only basic pH value.",
+      "question_type": "MCQ",
+      "id": 224,
+      "source": "AI",
+      "question_text": "A solution turns red litmus blue. Its pH is likely to be:"
+    },
+    {
+      "type": "MCQ",
+      "question": "When a ray of light passes from a denser medium to a rarer medium, it:",
+      "options": [
+        "Bends towards the normal",
+        "Bends away from the normal",
+        "Goes undeviated",
+        "Reflects back into the denser medium"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "When light travels from a denser medium to a rarer medium, its speed increases, causing it to bend away from the normal.",
+      "question_type": "MCQ",
+      "id": 225,
+      "source": "AI",
+      "question_text": "When a ray of light passes from a denser medium to a rarer medium, it:"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Define amphoteric oxides. Write balanced chemical equations to show the reaction of Aluminium oxide ($\\text{Al}_2\\text{O}_3$) with (i) Hydrochloric acid (HCl) and (ii) Sodium hydroxide (NaOH).",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Amphoteric oxides are metal oxides that show both acidic and basic properties. They react with acids as well as bases to produce salt and water.\n(i) $\\text{Al}_2\\text{O}_3 (s) + 6\\text{HCl} (aq) \\rightarrow 2\\text{AlCl}_3 (aq) + 3\\text{H}_2\\text{O} (l)$\n(ii) $\\text{Al}_2\\text{O}_3 (s) + 2\\text{NaOH} (aq) \\rightarrow 2\\text{NaAlO}_2 (aq) + \\text{H}_2\\text{O} (l)$",
+      "explanation": "Amphoteric oxides like aluminium oxide can react with acids (showing basic nature) and with bases (showing acidic nature). $\\text{NaAlO}_2$ is Sodium aluminate.",
+      "question_type": "Short Answer",
+      "id": 226,
+      "source": "AI",
+      "question_text": "Define amphoteric oxides. Write balanced chemical equations to show the reaction of Aluminium oxide ($\\text{Al}_2\\text{O}_3$) with (i) Hydrochloric acid (HCl) and (ii) Sodium hydroxide (NaOH)."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain phototropism and hydrotropism. Give one example for each type of movement in plants.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Phototropism is the growth movement of a plant part in response to light. (e.g., shoot/stem grows towards sunlight).\nHydrotropism is the growth movement of a plant part in response to water. (e.g., roots grow towards moist soil/water source).",
+      "explanation": "These are examples of directional growth movements (tropisms) regulated by plant hormones, essential for survival and resource acquisition.",
+      "question_type": "Short Answer",
+      "id": 227,
+      "source": "AI",
+      "question_text": "Explain phototropism and hydrotropism. Give one example for each type of movement in plants."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Draw the structures and write the IUPAC names for the first two members of the homologous series of Ketones.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "The functional group for Ketones is C=O (carbonyl group) placed between two alkyl groups. \n1. First member (n=3): Propanone ($\\text{CH}_3\\text{COCH}_3$). Structure: $\\text{CH}_3-\\text{CO}-\\text{CH}_3$\n2. Second member (n=4): Butanone ($\\text{CH}_3\\text{COCH}_2\\text{CH}_3$). Structure: $\\text{CH}_3-\\text{CO}-\\text{CH}_2-\\text{CH}_3$",
+      "explanation": "The first ketone is Propanone (Acetone), requiring a minimum of three carbons. Ketones follow the suffix '-one'.",
+      "question_type": "Short Answer",
+      "id": 228,
+      "source": "AI",
+      "question_text": "Draw the structures and write the IUPAC names for the first two members of the homologous series of Ketones."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain the mechanism of sex determination in human beings, clearly stating which parent determines the sex of the offspring.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Humans have 23 pairs of chromosomes. Females (XX) produce only X gametes, while Males (XY) produce X and Y gametes (sperm) in equal proportion.\nIf a sperm carrying X fertilizes the ovum (X), the zygote is XX (Female).\nIf a sperm carrying Y fertilizes the ovum (X), the zygote is XY (Male).\nSince the father contributes either an X or a Y chromosome, the father (male parent) determines the sex of the offspring.",
+      "explanation": "Sex determination is based on the combination of sex chromosomes inherited, specifically the type of sperm provided by the father.",
+      "question_type": "Short Answer",
+      "id": 229,
+      "source": "AI",
+      "question_text": "Explain the mechanism of sex determination in human beings, clearly stating which parent determines the sex of the offspring."
+    },
+    {
+      "type": "Short Answer",
+      "question": "What is the function of the ozone layer? Name two human-made compounds that cause its depletion.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Function of Ozone Layer: It shields the surface of the Earth from harmful ultraviolet (UV) radiation coming from the Sun, preventing damage to life.\nTwo human-made compounds causing depletion:\n1. Chlorofluorocarbons (CFCs)\n2. Halons / Carbon tetrachloride",
+      "explanation": "The ozone layer is vital for protecting terrestrial life. CFCs are historically the primary cause of ozone depletion.",
+      "question_type": "Short Answer",
+      "id": 230,
+      "source": "AI",
+      "question_text": "What is the function of the ozone layer? Name two human-made compounds that cause its depletion."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Describe the three major steps involved in the process of photosynthesis. Where does the light-dependent phase occur in the cell?",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Photosynthesis involves:\n1. Absorption of Light Energy: Chlorophyll absorbs light energy, primarily in the blue and red spectrum.\n2. Conversion of Light Energy to Chemical Energy and Splitting of Water: The absorbed energy is used to split water molecules ($H_2O$) into hydrogen and oxygen (released), and to generate energy carriers (ATP and NADPH).\n3. Reduction of Carbon Dioxide: Hydrogen ions and chemical energy (ATP and NADPH) are utilized to reduce carbon dioxide ($CO_2$) into carbohydrates (glucose).\nThe light-dependent phase (steps 1 and 2) occurs on the thylakoid membranes (Grana) within the chloroplasts.",
+      "explanation": "Requires detailing the distinct stages of photosynthesis (Light absorption, Photolysis, and $CO_2$ fixation/reduction) and their specific location in the chloroplast.",
+      "question_type": "Long Answer",
+      "id": 231,
+      "source": "AI",
+      "question_text": "Describe the three major steps involved in the process of photosynthesis. Where does the light-dependent phase occur in the cell?"
+    },
+    {
+      "type": "Long Answer",
+      "question": "State the principle of an electric motor. Draw a labelled diagram showing the main components of a simple electric motor and explain the function of the split ring.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Principle: An electric motor works on the principle that when a current-carrying conductor (coil) is placed perpendicular to a magnetic field, it experiences a force that causes it to rotate.\n(Diagram Description: Must show strong field magnets, armature coil, axle, split ring commutator, brushes, and battery.)\nFunction of Split Ring (Commutator): The split ring reverses the direction of the current flowing through the coil after every half rotation. This ensures that the force acting on the coil sides always pushes the coil to continue rotating in the same, single direction.",
+      "explanation": "This question tests the understanding of the conversion of electrical energy to mechanical energy based on magnetic forces, and the crucial role of the commutator.",
+      "question_type": "Long Answer",
+      "id": 232,
+      "source": "AI",
+      "question_text": "State the principle of an electric motor. Draw a labelled diagram showing the main components of a simple electric motor and explain the function of the split ring."
+    },
+    {
+      "type": "Long Answer",
+      "question": "A student places an object 20 cm in front of a concave mirror. The mirror produces a real image that is three times the size of the object. Calculate (i) the image distance, and (ii) the focal length of the mirror. Draw a ray diagram showing the formation of this image.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Given: Object distance $u = -20 \\text{ cm}$. Magnification $m = -3$ (real image is inverted).\n(i) Image Distance ($v$):\n$m = -v/u \\implies -3 = -v / (-20) \\implies v = -60 \\text{ cm}$.\nImage distance is 60 cm in front of the mirror.\n(ii) Focal Length ($f$):\n$1/f = 1/v + 1/u \\implies 1/f = 1/(-60) + 1/(-20) = (-1 - 3)/60 = -4/60$.\n$f = -15 \\text{ cm}$.\nFocal length is 15 cm.\n(Ray Diagram: Must show object placed between C (30 cm) and F (15 cm), and the real, inverted, magnified image formed beyond C.)",
+      "explanation": "Requires accurate application of sign conventions, magnification formula, and mirror formula, combined with geometric representation of the ray paths.",
+      "question_type": "Long Answer",
+      "id": 233,
+      "source": "AI",
+      "question_text": "A student places an object 20 cm in front of a concave mirror. The mirror produces a real image that is three times the size of the object. Calculate (i) the image distance, and (ii) the focal length of the mirror. Draw a ray diagram showing the formation of this image."
+    },
+    {
+      "type": "Long Answer",
+      "question": "What is meant by a homologous series of organic compounds? List any four characteristics of a homologous series. Give the chemical formula for the 3rd and 5th members of the Alkene series.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Homologous Series: A series of organic compounds having the same functional group and similar chemical properties, in which consecutive members differ by a $-\\text{CH}_2$ group.\nCharacteristics:\n1. All members have the same general formula (e.g., Alkenes $C_n H_{2n}$). \n2. Consecutive members differ by one $\\text{CH}_2$ unit (14 amu).\n3. They share similar methods of preparation.\n4. Physical properties (like boiling point) show a gradual change as molecular mass increases.\nAlkene Series General Formula: $\\text{C}_n\\text{H}_{2n}$ (n $\\ge$ 2)\n3rd member ($n=4$): Butene, $\\text{C}_4\\text{H}_8$\n5th member ($n=6$): Hexene, $\\text{C}_6\\text{H}_{12}$",
+      "explanation": "Tests knowledge of classification and properties of organic compounds based on structural similarity, and application of general formulas.",
+      "question_type": "Long Answer",
+      "id": 234,
+      "source": "AI",
+      "question_text": "What is meant by a homologous series of organic compounds? List any four characteristics of a homologous series. Give the chemical formula for the 3rd and 5th members of the Alkene series."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain the 'Three R's' strategy for sustainable management of natural resources. Also, list three advantages of rainwater harvesting.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Easy",
+      "answer": "The Three R's strategy:\n1. Reduce: Minimizing the consumption of resources (e.g., turning off electronics, using efficient appliances).\n2. Recycle: Processing waste materials (like plastic, metal, paper) into new usable products instead of generating new raw materials.\n3. Reuse: Using an item repeatedly for its original or a different purpose instead of throwing it away immediately (e.g., using glass jars for storage).\nAdvantages of Rainwater Harvesting:\n1. Recharges the groundwater table (aquifers).\n2. Reduces the pressure on local piped water supplies.\n3. It is a cost-effective and environmentally friendly method of irrigation/non-potable usage.\n4. Helps in controlling urban flooding and soil erosion.",
+      "explanation": "This requires listing and defining the common environmental conservation strategies and listing basic benefits of water management techniques.",
+      "question_type": "Long Answer",
+      "id": 235,
+      "source": "AI",
+      "question_text": "Explain the 'Three R's' strategy for sustainable management of natural resources. Also, list three advantages of rainwater harvesting."
+    }
+  ],
+  "summary": {
+    "total_questions": 15,
+    "total_marks": 45
+  }
+}

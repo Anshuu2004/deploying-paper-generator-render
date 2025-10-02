@@ -1,0 +1,365 @@
+{
+  "paper_id": "624a173f",
+  "examName": "hello",
+  "schoolName": "hellooo",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which substance is added to the soil to neutralize its excessive acidic nature?",
+      "options": [
+        "Common Salt (NaCl)",
+        "Slaked Lime [Ca(OH)₂]",
+        "Sulphuric Acid (H₂SO₄)",
+        "Baking Soda (NaHCO₃)"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Slaked lime, which is basic, is used to neutralize acidic soil, thereby adjusting the pH for optimal plant growth.",
+      "question_type": "MCQ",
+      "id": 152,
+      "source": "AI",
+      "question_text": "Which substance is added to the soil to neutralize its excessive acidic nature?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If three resistors R₁, R₂, and R₃ are connected in parallel, the reciprocal of the equivalent resistance (R_p) is given by:",
+      "options": [
+        "R_p = R₁ + R₂ + R₃",
+        "1/R_p = 1/R₁ + 1/R₂ + 1/R₃",
+        "R_p = (R₁ R₂ R₃) / (R₁ + R₂ + R₃)",
+        "1/R_p = R₁ + R₂ + R₃"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "The reciprocal of the equivalent resistance in a parallel combination is equal to the sum of the reciprocals of the individual resistances.",
+      "question_type": "MCQ",
+      "id": 153,
+      "source": "AI",
+      "question_text": "If three resistors R₁, R₂, and R₃ are connected in parallel, the reciprocal of the equivalent resistance (R_p) is given by:"
+    },
+    {
+      "type": "MCQ",
+      "question": "The primary function of Villi in the small intestine is to:",
+      "options": [
+        "Secrete digestive enzymes",
+        "Increase the surface area for absorption of digested food",
+        "Filter out waste products",
+        "Help in the initial breakdown of proteins"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Villi are finger-like projections that vastly increase the internal surface area of the small intestine, maximizing the efficiency of nutrient absorption.",
+      "question_type": "MCQ",
+      "id": 154,
+      "source": "AI",
+      "question_text": "The primary function of Villi in the small intestine is to:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Compounds belonging to the same homologous series show a difference in molecular formula by:",
+      "options": [
+        "-CH₃ group",
+        "-CH₂ group",
+        "-C₂H group",
+        "-OH group"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Successive members of a homologous series differ by a constant unit, which is a methylene group (-CH₂), resulting in a molecular mass difference of 14 u.",
+      "question_type": "MCQ",
+      "id": 155,
+      "source": "AI",
+      "question_text": "Compounds belonging to the same homologous series show a difference in molecular formula by:"
+    },
+    {
+      "type": "MCQ",
+      "question": "A student places an object 15 cm from a convex lens of focal length 10 cm. The magnification produced by the lens is:",
+      "options": [
+        "-2",
+        "+2",
+        "-0.5",
+        "+0.5"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "A",
+      "explanation": "Using 1/f = 1/v - 1/u: 1/10 = 1/v - 1/(-15). 1/v = 1/10 - 1/15 = (3-2)/30 = 1/30. v = 30 cm. Magnification m = v/u = 30 / (-15) = -2. The image is real, inverted, and magnified.",
+      "question_type": "MCQ",
+      "id": 156,
+      "source": "AI",
+      "question_text": "A student places an object 15 cm from a convex lens of focal length 10 cm. The magnification produced by the lens is:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following methods of asexual reproduction results in the formation of a chain of cells or buds?",
+      "options": [
+        "Fission",
+        "Fragmentation",
+        "Spore formation",
+        "Budding"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "D",
+      "explanation": "Budding, typically seen in Yeast, involves a small outgrowth (bud) that may detach or remain attached, sometimes forming a chain before maturity.",
+      "question_type": "MCQ",
+      "id": 157,
+      "source": "AI",
+      "question_text": "Which of the following methods of asexual reproduction results in the formation of a chain of cells or buds?"
+    },
+    {
+      "type": "Fill",
+      "question": "A reaction in which one reactant is oxidized while the other is reduced is known as a/an ____________ reaction.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Redox (or Oxidation-Reduction)",
+      "explanation": "Redox reactions involve simultaneous gain and loss of oxygen/hydrogen or electrons.",
+      "question_type": "Fill in the Blanks",
+      "id": 158,
+      "source": "AI",
+      "question_text": "A reaction in which one reactant is oxidized while the other is reduced is known as a/an ____________ reaction."
+    },
+    {
+      "type": "Fill",
+      "question": "The gap between two adjacent neurons where information is transmitted in the form of chemical signals is called a ____________.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Synapse",
+      "explanation": "The synapse is the functional junction between neurons where neurotransmitters are released.",
+      "question_type": "Fill in the Blanks",
+      "id": 159,
+      "source": "AI",
+      "question_text": "The gap between two adjacent neurons where information is transmitted in the form of chemical signals is called a ____________."
+    },
+    {
+      "type": "Fill",
+      "question": "The rule used to determine the direction of the force experienced by a current-carrying conductor placed in a magnetic field is ____________.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Fleming’s Left-Hand Rule",
+      "explanation": "Fleming's Left-Hand Rule correlates the direction of current, magnetic field, and the resulting motion/force.",
+      "question_type": "Fill in the Blanks",
+      "id": 160,
+      "source": "AI",
+      "question_text": "The rule used to determine the direction of the force experienced by a current-carrying conductor placed in a magnetic field is ____________."
+    },
+    {
+      "type": "Fill",
+      "question": "Organs that have a common fundamental structure but perform different functions are called ____________ organs.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Homologous",
+      "explanation": "Homologous organs provide evidence for evolution by descent (e.g., forelimbs of human, bird, frog).",
+      "question_type": "Fill in the Blanks",
+      "id": 161,
+      "source": "AI",
+      "question_text": "Organs that have a common fundamental structure but perform different functions are called ____________ organs."
+    },
+    {
+      "type": "Fill",
+      "question": "The process of heating carbonate ore strongly in the absence of air to convert it into metal oxide is called ____________.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "Calcination",
+      "explanation": "Calcination is specifically used for carbonate ores in limited or no air; roasting is used for sulfide ores in excess air.",
+      "question_type": "Fill in the Blanks",
+      "id": 162,
+      "source": "AI",
+      "question_text": "The process of heating carbonate ore strongly in the absence of air to convert it into metal oxide is called ____________."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State Joule's Law of Heating. If a current of 4 A flows through a resistor of 10 Ω for 5 minutes, calculate the heat generated.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Joule's Law states that the heat (H) produced in a resistor is directly proportional to (i) the square of the current (I²), (ii) the resistance of the resistor (R), and (iii) the time (t) for which the current flows (H = I²Rt).\nCalculation:\nI = 4 A, R = 10 Ω, t = 5 minutes = 300 s.\nH = (4)² × 10 × 300\nH = 16 × 3000\nH = 48000 J or 48 kJ.",
+      "explanation": "Application of the formula H = I²Rt, converting time to standard SI unit (seconds).",
+      "question_type": "Short Answer",
+      "id": 163,
+      "source": "AI",
+      "question_text": "State Joule's Law of Heating. If a current of 4 A flows through a resistor of 10 Ω for 5 minutes, calculate the heat generated."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Differentiate between the response mechanism of nervous control and hormonal control in animals based on speed and duration.",
+      "options": [],
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "Nervous Control:\n1. Speed: Very fast (impulses travel quickly).\n2. Duration: Short-lived and precise.\nHormonal Control:\n1. Speed: Slow (hormones travel through the bloodstream).\n2. Duration: Usually long-lasting and widespread.",
+      "explanation": "Nervous system provides rapid, point-to-point coordination, while the endocrine system provides slow, broadcast coordination.",
+      "question_type": "Short Answer",
+      "id": 164,
+      "source": "AI",
+      "question_text": "Differentiate between the response mechanism of nervous control and hormonal control in animals based on speed and duration."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Draw the electron dot structure for Methane (CH₄). Why is carbon unable to form C⁴⁺ or C⁴⁻ ions?",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Electron Dot Structure (Diagram required, showing one C atom sharing one electron each with four H atoms, achieving noble gas configuration for both).\nReason for Ion formation difficulty:\n1. To form C⁴⁺: Carbon would need to lose four electrons. This requires a huge amount of energy to remove electrons from a small nucleus.\n2. To form C⁴⁻: Carbon would need to gain four electrons. The nucleus with 6 protons cannot effectively hold 10 electrons, leading to high inter-electronic repulsion.",
+      "explanation": "Carbon achieves stability via covalent bonding (sharing) because the energy requirement for forming C⁴⁺ or C⁴⁻ ions is prohibitively high.",
+      "question_type": "Short Answer",
+      "id": 165,
+      "source": "AI",
+      "question_text": "Draw the electron dot structure for Methane (CH₄). Why is carbon unable to form C⁴⁺ or C⁴⁻ ions?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain the phenomenon of 'Dispersion of White Light' when passed through a prism. Why does dispersion occur?",
+      "options": [],
+      "marks": 4,
+      "difficulty": "Hard",
+      "answer": "Dispersion is the phenomenon of splitting white light into its constituent seven colours (VIBGYOR) upon passing through a transparent medium like a glass prism.\nCause of Dispersion:\nWhite light is composed of different wavelengths (colors). The refractive index (n) of the prism glass is different for different wavelengths (colors). Since the speed of light varies with the refractive index, different colors travel at different speeds inside the glass. Consequently, they bend (refract) through different angles. Violet light bends the most (highest refractive index/shortest wavelength), and red light bends the least (lowest refractive index/longest wavelength), causing the separation.",
+      "explanation": "This requires linking the phenomenon to the underlying principle: the dependence of refractive index on wavelength.",
+      "question_type": "Short Answer",
+      "id": 166,
+      "source": "AI",
+      "question_text": "Explain the phenomenon of 'Dispersion of White Light' when passed through a prism. Why does dispersion occur?"
+    },
+    {
+      "type": "Long Answer",
+      "question": "Describe the mechanism of gaseous exchange in human beings. Draw a neat, labeled diagram of the human respiratory system including the path of air.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Mechanism:\n1. Inhalation: The diaphragm flattens, and rib cage moves up and out. This increases the volume of the chest cavity, decreasing the pressure, forcing air into the lungs.\n2. Exchange at Alveoli: Oxygen from the inhaled air diffuses across the thin walls of the alveoli into the surrounding blood capillaries, which have a lower concentration of O₂. Simultaneously, CO₂ from the blood (high concentration) diffuses into the alveoli (low concentration).\n3. Transportation: Oxygenated blood is transported to body tissues.\n4. Exhalation: Diaphragm relaxes and returns to its dome shape, rib cage moves down and in. This decreases the volume of the chest cavity, increasing pressure, forcing CO₂ rich air out.\n(Diagram must include: Nasal passage, Pharynx, Larynx, Trachea, Bronchi, Bronchioles, Lungs, Alveoli, Diaphragm).",
+      "explanation": "A complete answer requires explanation of breathing mechanics, diffusion at the respiratory surface (alveoli), and a labeled diagram.",
+      "question_type": "Long Answer",
+      "id": 167,
+      "source": "AI",
+      "question_text": "Describe the mechanism of gaseous exchange in human beings. Draw a neat, labeled diagram of the human respiratory system including the path of air."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Define Ionic Compounds. Using electron dot structures, show the formation of Magnesium Chloride (MgCl₂). List three characteristic properties of ionic compounds.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Definition: Ionic compounds are chemical compounds formed by the complete transfer of electrons from a metal atom (forming a cation) to a non-metal atom (forming an anion), held together by strong electrostatic forces of attraction.\nFormation of MgCl₂:\n1. Magnesium (Atomic No. 12): [2, 8, 2] loses 2 electrons to form Mg²⁺ ion.\n2. Chlorine (Atomic No. 17): [2, 8, 7] needs 1 electron to form Cl⁻ ion. Two chlorine atoms are required.\n(Electron dot diagram showing Mg transferring one electron to each of the two Cl atoms, resulting in [Mg]²⁺ and 2[Cl]⁻ ions.)\nProperties:\n1. Physical nature: They are generally solid and hard due to strong forces of attraction.\n2. Melting/Boiling Points: They have high melting and boiling points.\n3. Conductivity: They are non-conductors in the solid state but conduct electricity in the molten state or when dissolved in water.",
+      "explanation": "This covers the definition, detailed formation mechanism via electron transfer, and standard physical properties.",
+      "question_type": "Long Answer",
+      "id": 168,
+      "source": "AI",
+      "question_text": "Define Ionic Compounds. Using electron dot structures, show the formation of Magnesium Chloride (MgCl₂). List three characteristic properties of ionic compounds."
+    },
+    {
+      "type": "Long Answer",
+      "question": "State the principle of an Electric Motor. Draw a neat, labeled diagram of a simple electric motor and explain its working. What is the role of the Split Ring/Commutator?",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Principle: An electric motor works on the principle that when a current-carrying conductor is placed perpendicularly in a magnetic field, it experiences a force that causes it to move.\n(Diagram must include: Strong Magnetic Poles, Armature Coil, Axle, Split Ring Commutator, Brushes, Battery).\nWorking: When current flows through the coil, two sides (AB and CD) experience equal and opposite forces (determined by Fleming’s Left-Hand Rule). These forces form a couple, causing the coil to rotate continuously.\nRole of Commutator: The split ring acts as a commutator, reversing the direction of the current in the coil after every half rotation. This ensures that the force acting on the coil sides always pushes them in the same direction (e.g., AB always pushed down, CD always pushed up), ensuring continuous rotation.",
+      "explanation": "A high-scoring answer requires the principle, diagram, explanation of the rotation mechanism (forces and torque), and the critical function of the commutator.",
+      "question_type": "Long Answer",
+      "id": 169,
+      "source": "AI",
+      "question_text": "State the principle of an Electric Motor. Draw a neat, labeled diagram of a simple electric motor and explain its working. What is the role of the Split Ring/Commutator?"
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain Mendel's Dihybrid cross experiment using pea plants. State the Law derived from this experiment and mention the resultant phenotypic ratio.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Dihybrid Cross: Mendel studied the inheritance of two pairs of contrasting characteristics simultaneously (e.g., Seed shape: Round (R) vs. Wrinkled (r); Seed colour: Yellow (Y) vs. Green (y)).\nExperiment: He crossed Pure Round Yellow (RRYY) parent plants with Pure Wrinkled Green (rryy) parent plants.\nF1 Generation: All offspring were Round Yellow (RrYy), showing that R and Y are dominant traits.\nF2 Generation: When F1 plants were self-pollinated, the F2 generation showed four types of plants: two parental types (Round Yellow, Wrinkled Green) and two new combinations (Round Green, Wrinkled Yellow).\nLaw Derived: Law of Independent Assortment. This law states that the inheritance of one pair of characteristics is independent of the inheritance of the other pair.\nPhenotypic Ratio (F2): 9 (Round Yellow) : 3 (Round Green) : 3 (Wrinkled Yellow) : 1 (Wrinkled Green).",
+      "explanation": "Requires description of the cross setup, results, derived law, and the F2 ratio.",
+      "question_type": "Long Answer",
+      "id": 170,
+      "source": "AI",
+      "question_text": "Explain Mendel's Dihybrid cross experiment using pea plants. State the Law derived from this experiment and mention the resultant phenotypic ratio."
+    },
+    {
+      "type": "Long Answer",
+      "question": "An object is placed between the pole (P) and the principal focus (F) of a concave mirror.\n1. Draw a neat ray diagram showing the image formation.\n2. State the properties of the image formed.\n3. Briefly explain the sign conventions used for this scenario.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "1. Ray Diagram: (Requires diagram showing: object placed between P and F; two rays used (e.g., parallel ray reflected through F, ray directed towards C reflected back along C); reflected rays diverging but meeting when extended behind the mirror at I', forming a virtual image I'.)\n2. Properties of the image:\n   i. Position: Behind the mirror.\n   ii. Nature: Virtual and Erect.\n   iii. Size: Magnified (larger than the object).\n3. Sign Conventions (New Cartesian): \ni. The object distance (u) is negative (object placed in front).\nii. The focal length (f) is negative (concave mirror).\niii. The image distance (v) is positive (image formed behind the mirror).\niv. Object height (h) and Image height (h') are both positive (Erect image).",
+      "explanation": "This position of image formation is crucial as it is the only case where the concave mirror forms a virtual image. Detailed sign conventions are necessary for full marks.",
+      "question_type": "Long Answer",
+      "id": 171,
+      "source": "AI",
+      "question_text": "An object is placed between the pole (P) and the principal focus (F) of a concave mirror.\n1. Draw a neat ray diagram showing the image formation.\n2. State the properties of the image formed.\n3. Briefly explain the sign conventions used for this scenario."
+    },
+    {
+      "type": "Match",
+      "question": "Match the items in Column I with the correct description or function in Column II.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "[{ 'A': 'E', 'B': 'D', 'C': 'A', 'D': 'B', 'E': 'C' }]",
+      "explanation": "Matching concepts across different science domains (Biology, Chemistry, Physics, Environment).",
+      "items": [
+        {
+          "Column I": "A. Ozone Layer",
+          "Column II": "E. Protects against UV radiation"
+        },
+        {
+          "Column I": "B. Biogas",
+          "Column II": "D. Primary component is Methane"
+        },
+        {
+          "Column I": "C. Amphoteric Oxide",
+          "Column II": "A. Reacts with both acids and bases"
+        },
+        {
+          "Column I": "D. Phototropism",
+          "Column II": "B. Plant movement in response to light"
+        },
+        {
+          "Column I": "E. Fusing of wire",
+          "Column II": "C. Caused by overloading or short-circuiting"
+        }
+      ],
+      "question_type": "Matching",
+      "id": 172,
+      "source": "AI",
+      "question_text": "Match the items in Column I with the correct description or function in Column II."
+    },
+    {
+      "type": "Case Study",
+      "question": "A chemist performs an experiment involving three solutions: P, Q, and R. P is a strong acid, Q is a strong base, and R is a salt solution derived from a weak acid and a strong base. The pH of the solutions are measured.\n1. If solution P has a pH of 2, calculate the hydrogen ion concentration [H⁺].\n2. When equal volumes of P and Q are mixed, what is the expected pH of the resulting mixture? Why?\n3. Predict whether solution R will be acidic, basic, or neutral, and give a reason.",
+      "options": [],
+      "marks": 4,
+      "difficulty": "Medium",
+      "answer": "1. Since pH = -log[H⁺], if pH = 2, then [H⁺] = 10⁻² M (0.01 M).\n2. When equal volumes of strong acid (P) and strong base (Q) are mixed, the process is neutralization. The expected pH of the resulting mixture will be 7 (Neutral), assuming they are of equal concentration, as the H⁺ and OH⁻ ions cancel each other out.\n3. Solution R (Salt of Weak Acid + Strong Base, e.g., Sodium Acetate) will be Basic. This is because the strong base component dominates the hydrolysis, leading to the formation of excess OH⁻ ions in the solution.",
+      "explanation": "Tests understanding of pH calculation, neutralization, and salt hydrolysis.",
+      "question_type": "Case Study",
+      "id": 173,
+      "source": "AI",
+      "question_text": "A chemist performs an experiment involving three solutions: P, Q, and R. P is a strong acid, Q is a strong base, and R is a salt solution derived from a weak acid and a strong base. The pH of the solutions are measured.\n1. If solution P has a pH of 2, calculate the hydrogen ion concentration [H⁺].\n2. When equal volumes of P and Q are mixed, what is the expected pH of the resulting mixture? Why?\n3. Predict whether solution R will be acidic, basic, or neutral, and give a reason."
+    },
+    {
+      "type": "Case Study",
+      "question": "Variation is crucial for the survival of a species. Consider two modes of reproduction: (A) Asexual Reproduction (e.g., fragmentation in Spirogyra) and (B) Sexual Reproduction.\n1. Why does asexual reproduction, like fragmentation, produce very little variation compared to sexual reproduction?\n2. State one specific disadvantage that lack of variation (high similarity) poses to a population of organisms in a changing environment.\n3. How is the process of generating variation different in human males and females during gamete formation?",
+      "options": [],
+      "marks": 4,
+      "difficulty": "Medium",
+      "answer": "1. Asexual reproduction typically involves only one parent and relies primarily on mitotic divisions. The offspring are genetically identical clones (except for minor mutations). Sexual reproduction involves the fusion of gametes from two parents and features genetic recombination (crossing over) and independent assortment during meiosis, leading to high variation.\n2. If the environment changes suddenly (e.g., new predator, disease outbreak, climate change), all identical individuals may be equally susceptible, potentially leading to the extinction of the entire population.\n3. In both males (sperm) and females (ova), variation is generated through Meiosis (reduction division), which shuffles parental genes. However, males produce millions of gametes continuously, while females typically produce only one mature ovum per month, meaning the potential for new gametic combinations is exercised differently over time.",
+      "explanation": "Focuses on the core concept of variation, its source (meiosis), and its adaptive significance.",
+      "question_type": "Case Study",
+      "id": 174,
+      "source": "AI",
+      "question_text": "Variation is crucial for the survival of a species. Consider two modes of reproduction: (A) Asexual Reproduction (e.g., fragmentation in Spirogyra) and (B) Sexual Reproduction.\n1. Why does asexual reproduction, like fragmentation, produce very little variation compared to sexual reproduction?\n2. State one specific disadvantage that lack of variation (high similarity) poses to a population of organisms in a changing environment.\n3. How is the process of generating variation different in human males and females during gamete formation?"
+    }
+  ],
+  "summary": {
+    "total_questions": 23,
+    "total_marks": 61
+  }
+}

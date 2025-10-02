@@ -1,0 +1,169 @@
+{
+  "paper_id": "1e1b6cbd",
+  "examName": "",
+  "schoolName": "",
+  "schoolBoard": "CBSE",
+  "class": "7",
+  "subject": "Mathematics",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Evaluate: $(-15) + 4 \\times (-5)$.",
+      "options": [
+        "-35",
+        "-25",
+        "35",
+        "25"
+      ],
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "A",
+      "explanation": "Using the order of operations (BODMAS/PEMDAS): First, multiply $4 \\times (-5) = -20$. Then, add: $(-15) + (-20) = -35.",
+      "question_type": "MCQ",
+      "id": 236,
+      "source": "AI",
+      "question_text": "Evaluate: $(-15) + 4 \\times (-5)$."
+    },
+    {
+      "type": "MCQ",
+      "question": "Simplify the expression: $3^2 \\times 3^3$.",
+      "options": [
+        "$3^6$",
+        "$9^5$",
+        "$3^5$",
+        "$6^5$"
+      ],
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "When multiplying powers with the same base, we add the exponents (Law of Exponents: $a^m \\times a^n = a^{m+n}$). $3^{2+3} = 3^5$.",
+      "question_type": "MCQ",
+      "id": 237,
+      "source": "AI",
+      "question_text": "Simplify the expression: $3^2 \\times 3^3$."
+    },
+    {
+      "type": "MCQ",
+      "question": "If an angle measures $40^\\circ$, what is the measure of its supplement?",
+      "options": [
+        "$50^\\circ$",
+        "$140^\\circ$",
+        "$60^\\circ$",
+        "$320^\\circ$"
+      ],
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Supplementary angles are two angles that add up to $180^\\circ$. The supplement is $180^\\circ - 40^\\circ = 140^\\circ$.",
+      "question_type": "MCQ",
+      "id": 238,
+      "source": "AI",
+      "question_text": "If an angle measures $40^\\circ$, what is the measure of its supplement?"
+    },
+    {
+      "type": "MCQ",
+      "question": "What is the coefficient of $x$ in the algebraic expression $5x^2 - 7x + 3$?",
+      "options": [
+        "5",
+        "3",
+        "-7",
+        "7"
+      ],
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "The coefficient of a variable is the number multiplied by it. The term involving $x$ is $-7x$, so the coefficient is $-7$.",
+      "question_type": "MCQ",
+      "id": 239,
+      "source": "AI",
+      "question_text": "What is the coefficient of $x$ in the algebraic expression $5x^2 - 7x + 3$?"
+    },
+    {
+      "type": "MCQ",
+      "question": "A shop offered a discount of $10\\%$ on all items. If the original price of a shirt was ₹800, what is the selling price?",
+      "options": [
+        "₹80",
+        "₹720",
+        "₹790",
+        "₹880"
+      ],
+      "marks": 2,
+      "difficulty": "Hard",
+      "answer": "B",
+      "explanation": "Discount amount = $10\\%$ of $800 = \\frac{10}{100} \\times 800 = 80$. Selling Price = Original Price - Discount = $800 - 80 = ₹720$.",
+      "question_type": "MCQ",
+      "id": 240,
+      "source": "AI",
+      "question_text": "A shop offered a discount of $10\\%$ on all items. If the original price of a shirt was ₹800, what is the selling price?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Solve the simple linear equation: $3p - 10 = 5$.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "p = 5",
+      "explanation": "Add 10 to both sides: $3p = 5 + 10 \\Rightarrow 3p = 15$. Divide by 3: $p = 15/3 \\Rightarrow p = 5$.",
+      "question_type": "Short Answer",
+      "id": 241,
+      "source": "AI",
+      "question_text": "Solve the simple linear equation: $3p - 10 = 5$."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Find the mean of the first five prime numbers.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "5.6",
+      "explanation": "The first five prime numbers are 2, 3, 5, 7, and 11. Sum of numbers = $2+3+5+7+11 = 28$. Mean = Sum / Count = $28 / 5 = 5.6$.",
+      "question_type": "Short Answer",
+      "id": 242,
+      "source": "AI",
+      "question_text": "Find the mean of the first five prime numbers."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Find two rational numbers between $\\frac{1}{3}$ and $\\frac{2}{3}$.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "$\\frac{5}{12}$ and $\\frac{6}{12}$ (or $\\frac{1}{2}$)",
+      "explanation": "To find rational numbers between them, rewrite the fractions with a larger common denominator, such as 12. $\\frac{1}{3} = \\frac{4}{12}$ and $\\frac{2}{3} = \\frac{8}{12}$. Two numbers between them are $\\frac{5}{12}$ and $\\frac{6}{12}$.",
+      "question_type": "Short Answer",
+      "id": 243,
+      "source": "AI",
+      "question_text": "Find two rational numbers between $\\frac{1}{3}$ and $\\frac{2}{3}$."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A rectangular park is $20$ m long and $15$ m wide. Calculate the area of the park in square meters.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "300 $m^2$",
+      "explanation": "Area of a rectangle = Length $\\times$ Width. Area = $20 \\text{ m} \\times 15 \\text{ m} = 300 \\text{ m}^2$.",
+      "question_type": "Short Answer",
+      "id": 244,
+      "source": "AI",
+      "question_text": "A rectangular park is $20$ m long and $15$ m wide. Calculate the area of the park in square meters."
+    },
+    {
+      "type": "Short Answer",
+      "question": "In a $\\triangle ABC$, the exterior angle formed at vertex $C$ is $120^\\circ$. If $\\angle A = 50^\\circ$, find the measure of $\\angle B$.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "$70^\\circ$",
+      "explanation": "By the Exterior Angle Property of a Triangle, the exterior angle at a vertex is equal to the sum of the interior opposite angles. Exterior $\\angle C = \\angle A + \\angle B$. $120^\\circ = 50^\\circ + \\angle B$. $\\angle B = 120^\\circ - 50^\\circ = 70^\\circ$.",
+      "question_type": "Short Answer",
+      "id": 245,
+      "source": "AI",
+      "question_text": "In a $\\triangle ABC$, the exterior angle formed at vertex $C$ is $120^\\circ$. If $\\angle A = 50^\\circ$, find the measure of $\\angle B$."
+    }
+  ],
+  "summary": {
+    "total_questions": 10,
+    "total_marks": 25
+  }
+}

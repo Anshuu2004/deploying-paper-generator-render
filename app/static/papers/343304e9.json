@@ -1,0 +1,194 @@
+{
+  "paper_id": "343304e9",
+  "examName": "asdfg",
+  "schoolName": "asdfgdf",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "When solid calcium oxide reacts vigorously with water, it produces calcium hydroxide and releases a large amount of heat. What type of chemical reaction is this?",
+      "options": [
+        "Decomposition reaction",
+        "Combination reaction",
+        "Displacement reaction",
+        "Double displacement reaction"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Two reactants (CaO and H2O) combine to form a single product (Ca(OH)2). It is also an exothermic reaction.",
+      "question_type": "MCQ",
+      "id": 37,
+      "source": "AI",
+      "question_text": "When solid calcium oxide reacts vigorously with water, it produces calcium hydroxide and releases a large amount of heat. What type of chemical reaction is this?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following is the energy currency for most cellular processes?",
+      "options": [
+        "DNA",
+        "RNA",
+        "ATP",
+        "Glucose"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "ATP (Adenosine Triphosphate) is the molecule used to store and transfer energy in cells.",
+      "question_type": "MCQ",
+      "id": 38,
+      "source": "AI",
+      "question_text": "Which of the following is the energy currency for most cellular processes?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If two resistors, R1 and R2, are connected in parallel, how does their equivalent resistance (Req) compare to the individual resistances?",
+      "options": [
+        "Req is always greater than both R1 and R2.",
+        "Req is equal to R1 + R2.",
+        "Req is always smaller than the smallest individual resistance.",
+        "Req is equal to the average of R1 and R2."
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "In a parallel combination, the equivalent resistance is given by 1/Req = 1/R1 + 1/R2. This calculation always results in an equivalent resistance that is less than the value of the smallest resistor in the combination.",
+      "question_type": "MCQ",
+      "id": 39,
+      "source": "AI",
+      "question_text": "If two resistors, R1 and R2, are connected in parallel, how does their equivalent resistance (Req) compare to the individual resistances?"
+    },
+    {
+      "type": "MCQ",
+      "question": "A solution turns red litmus paper blue. Its pH value is likely to be:",
+      "options": [
+        "2",
+        "5",
+        "7",
+        "10"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "D",
+      "explanation": "The change of red litmus to blue indicates that the solution is basic. Basic solutions have a pH greater than 7.",
+      "question_type": "MCQ",
+      "id": 40,
+      "source": "AI",
+      "question_text": "A solution turns red litmus paper blue. Its pH value is likely to be:"
+    },
+    {
+      "type": "MCQ",
+      "question": "A student uses a concave mirror to project the image of a candle flame on a screen. If the screen is moved closer to the mirror, the image size decreases. Where must the candle (object) currently be placed?",
+      "options": [
+        "At the focus (F)",
+        "Between the pole (P) and focus (F)",
+        "Between the center of curvature (C) and focus (F)",
+        "Beyond the center of curvature (C)"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "C",
+      "explanation": "For a real image in a concave mirror, moving the screen closer means the image distance is decreasing. This happens when the object moves away from the mirror (towards C or beyond). Since the image is currently real and decreasing in size as the image distance decreases, the object must be between F and C (Image forms beyond C, magnified). Moving the screen closer corresponds to moving the object away from the mirror, resulting in a smaller image.",
+      "question_type": "MCQ",
+      "id": 41,
+      "source": "AI",
+      "question_text": "A student uses a concave mirror to project the image of a candle flame on a screen. If the screen is moved closer to the mirror, the image size decreases. Where must the candle (object) currently be placed?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which mode of reproduction is generally favored by organisms living in a stable environment?",
+      "options": [
+        "Sexual reproduction",
+        "Fragmentation",
+        "Budding",
+        "Fission"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "Fission, budding, and fragmentation are forms of asexual reproduction. Asexual reproduction is faster and ideal for stable environments as it preserves the successful genotype without requiring searching for a mate or high variation.",
+      "question_type": "MCQ",
+      "id": 42,
+      "source": "AI",
+      "question_text": "Which mode of reproduction is generally favored by organisms living in a stable environment?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "What are amphoteric oxides? Give one example of a metal oxide that exhibits this property.",
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "Amphoteric oxides are metal oxides that react with both acids and bases to produce salts and water. Example: Aluminium oxide (Al2O3) or Zinc oxide (ZnO).",
+      "explanation": "This tests the basic definition and recall of the characteristic property of certain metal oxides (Al and Zn) that fall between basic and acidic behavior.",
+      "question_type": "Short Answer",
+      "id": 43,
+      "source": "AI",
+      "question_text": "What are amphoteric oxides? Give one example of a metal oxide that exhibits this property."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State the role of the receptor and effector organs in the process of a reflex action.",
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "Receptors are structures (like specialized cells or sense organs) that detect the stimulus (change in environment) and convert it into a nerve impulse. Effectors are muscles or glands that receive the instruction from the central nervous system (via motor nerves) and carry out the appropriate response.",
+      "explanation": "This requires understanding the two fundamental components needed for immediate involuntary response (reflex action).",
+      "question_type": "Short Answer",
+      "id": 44,
+      "source": "AI",
+      "question_text": "State the role of the receptor and effector organs in the process of a reflex action."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A current-carrying straight conductor experiences a force when placed in a uniform magnetic field. State the rule used to determine the direction of this force and list the three quantities related by this rule.",
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "The rule used to determine the direction of the force is Fleming's Left-Hand Rule. The three quantities related by this rule are: 1. Force (Thumb), 2. Magnetic Field Direction (Forefinger), 3. Direction of Current (Middle finger).",
+      "explanation": "This assesses knowledge of the fundamental physics rule (Fleming's LHR) and the quantities represented by the fingers.",
+      "question_type": "Short Answer",
+      "id": 45,
+      "source": "AI",
+      "question_text": "A current-carrying straight conductor experiences a force when placed in a uniform magnetic field. State the rule used to determine the direction of this force and list the three quantities related by this rule."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain why only about 10% of the energy is transferred to the next trophic level in a food chain.",
+      "marks": 2,
+      "difficulty": "Hard",
+      "answer": "The energy transfer is limited to 10% because the remaining 90% of the energy is lost to the environment. This loss occurs primarily through metabolic processes of the organism at that level, such as respiration, digestion, movement, and heat loss to maintain body temperature. This makes food chains typically short (3-4 steps).",
+      "explanation": "This requires applying the concept of the 10% law and providing the reasons for the energy dissipation, which links biology and environmental science concepts.",
+      "question_type": "Short Answer",
+      "id": 46,
+      "source": "AI",
+      "question_text": "Explain why only about 10% of the energy is transferred to the next trophic level in a food chain."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Draw the electron dot structure for Methane (CH4). Explain the type of bonding present in this molecule.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Electron Dot Structure: (The structure must show Carbon sharing 4 electrons with 4 Hydrogen atoms, resulting in 4 covalent bonds.) \nType of Bonding: Methane exhibits Covalent Bonding. This type of bonding is formed by the mutual sharing of valence electrons between the atoms (Carbon and Hydrogen) so that both achieve the stable noble gas configuration.",
+      "explanation": "This combines a drawing skill (electron dot structure for a simple hydrocarbon) with the theoretical explanation of covalent bonding, a key concept in Carbon compounds.",
+      "question_type": "Short Answer",
+      "id": 47,
+      "source": "AI",
+      "question_text": "Draw the electron dot structure for Methane (CH4). Explain the type of bonding present in this molecule."
+    },
+    {
+      "type": "Short Answer",
+      "question": "What is Myopia? State the two possible causes of this defect and suggest the type of lens required for its correction.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Myopia (Nearsightedness) is the eye defect where a person can see nearby objects clearly but cannot see distant objects distinctly. \nPossible Causes: 1. Excessive curvature of the eye lens. 2. Elongation of the eyeball. \nCorrection: It is corrected by using a concave lens (or diverging lens) of appropriate power. The concave lens diverges the incoming light rays slightly before they reach the eye lens, ensuring the image is formed correctly on the retina.",
+      "explanation": "This comprehensive question requires defining the defect, listing its causes (3 marks requires more than just the definition), and specifying the corrective measure and lens type.",
+      "question_type": "Short Answer",
+      "id": 48,
+      "source": "AI",
+      "question_text": "What is Myopia? State the two possible causes of this defect and suggest the type of lens required for its correction."
+    }
+  ],
+  "summary": {
+    "total_questions": 12,
+    "total_marks": 20
+  }
+}

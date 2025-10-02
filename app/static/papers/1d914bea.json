@@ -1,0 +1,371 @@
+{
+  "paper_id": "1d914bea",
+  "examName": "hello",
+  "schoolName": "hellooo",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which gas is typically produced when a dilute acid reacts with a metal?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Hydrogen",
+        "Sulphur Dioxide"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Acids react with active metals to produce a salt and hydrogen gas (H₂).",
+      "question_type": "MCQ",
+      "id": 175,
+      "source": "AI",
+      "question_text": "Which gas is typically produced when a dilute acid reacts with a metal?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which structure in the plant body is responsible for transporting water and dissolved minerals from roots to the leaves?",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Sieve tubes",
+        "Parenchyma"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Xylem tissue is specialized for the upward transport of water and minerals.",
+      "question_type": "MCQ",
+      "id": 176,
+      "source": "AI",
+      "question_text": "Which structure in the plant body is responsible for transporting water and dissolved minerals from roots to the leaves?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If three resistors R1, R2, and R3 are connected in parallel, the reciprocal of the equivalent resistance (1/Rp) is given by:",
+      "options": [
+        "R1 + R2 + R3",
+        "1/R1 + 1/R2 + 1/R3",
+        "(R1 + R2 + R3) / 3",
+        "R1 * R2 * R3"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "B",
+      "explanation": "In a parallel combination, the reciprocal of the equivalent resistance is the sum of the reciprocals of the individual resistances.",
+      "question_type": "MCQ",
+      "id": 177,
+      "source": "AI",
+      "question_text": "If three resistors R1, R2, and R3 are connected in parallel, the reciprocal of the equivalent resistance (1/Rp) is given by:"
+    },
+    {
+      "type": "MCQ",
+      "question": "A method of asexual reproduction in which a small outgrowth or 'bud' detaches from the parent body to form a new individual is seen in:",
+      "options": [
+        "Amoeba",
+        "Yeast",
+        "Planaria",
+        "Rhizopus"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Yeast and Hydra reproduce asexually through the process of budding.",
+      "question_type": "MCQ",
+      "id": 178,
+      "source": "AI",
+      "question_text": "A method of asexual reproduction in which a small outgrowth or 'bud' detaches from the parent body to form a new individual is seen in:"
+    },
+    {
+      "type": "MCQ",
+      "question": "An object is placed 10 cm from a convex mirror of focal length 15 cm. The image formed will be:",
+      "options": [
+        "Real and inverted",
+        "Virtual and magnified",
+        "Virtual and diminished",
+        "Real and diminished"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "A convex mirror always forms a virtual, erect, and diminished image, regardless of the object's position (between the pole and the focus).",
+      "question_type": "MCQ",
+      "id": 179,
+      "source": "AI",
+      "question_text": "An object is placed 10 cm from a convex mirror of focal length 15 cm. The image formed will be:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following belongs to the same homologous series as C₂H₆?",
+      "options": [
+        "CH₄",
+        "C₂H₄",
+        "C₃H₄",
+        "C₃H₈"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "D",
+      "explanation": "C₂H₆ (ethane) belongs to the alkane series (CnH₂n+₂). C₃H₈ (propane) also belongs to this series, differing by a –CH₂ unit.",
+      "question_type": "MCQ",
+      "id": 180,
+      "source": "AI",
+      "question_text": "Which of the following belongs to the same homologous series as C₂H₆?"
+    },
+    {
+      "type": "Fill",
+      "question": "The process of heating a sulfide ore strongly in the presence of air to convert it into a metal oxide is called _______________.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Roasting",
+      "explanation": "Roasting is used for sulfide ores, while calcination is used for carbonate ores.",
+      "question_type": "Fill in the Blanks",
+      "id": 181,
+      "source": "AI",
+      "question_text": "The process of heating a sulfide ore strongly in the presence of air to convert it into a metal oxide is called _______________."
+    },
+    {
+      "type": "Fill",
+      "question": "The hormone responsible for lowering the concentration of glucose in the blood is _______________.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Insulin",
+      "explanation": "Insulin, produced by the pancreas, regulates blood sugar levels.",
+      "question_type": "Fill in the Blanks",
+      "id": 182,
+      "source": "AI",
+      "question_text": "The hormone responsible for lowering the concentration of glucose in the blood is _______________."
+    },
+    {
+      "type": "Fill",
+      "question": "The principle on which an electric generator works is _______________.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "Electromagnetic Induction",
+      "explanation": "A generator converts mechanical energy to electrical energy by inducing current through the changing magnetic flux.",
+      "question_type": "Fill in the Blanks",
+      "id": 183,
+      "source": "AI",
+      "question_text": "The principle on which an electric generator works is _______________."
+    },
+    {
+      "type": "Fill",
+      "question": "The flow of energy in an ecosystem is always _______________.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Unidirectional",
+      "explanation": "Energy flows from producers to consumers and cannot be recycled back.",
+      "question_type": "Fill in the Blanks",
+      "id": 184,
+      "source": "AI",
+      "question_text": "The flow of energy in an ecosystem is always _______________."
+    },
+    {
+      "type": "Fill",
+      "question": "When an ant sting causes irritation, the substance injected by the ant is _______________ acid.",
+      "options": [],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Methanoic (or Formic)",
+      "explanation": "Ant stings inject methanoic acid, which causes pain and irritation.",
+      "question_type": "Fill in the Blanks",
+      "id": 185,
+      "source": "AI",
+      "question_text": "When an ant sting causes irritation, the substance injected by the ant is _______________ acid."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain the condition of Myopia (near-sightedness). Draw a labeled ray diagram showing how this defect is corrected.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Myopia is the defect of vision where a person can see nearby objects clearly but cannot see distant objects distinctly. The image of a distant object is formed in front of the retina. The cause is either excessive curvature of the eye lens or elongation of the eyeball. Correction is done by using a suitable concave lens of appropriate power, which diverges the incoming light slightly before it enters the eye, ensuring the final image forms on the retina.",
+      "explanation": "Requires defining the defect and providing the correction method (concave lens) with knowledge of the associated ray diagram principles.",
+      "question_type": "Short Answer",
+      "id": 186,
+      "source": "AI",
+      "question_text": "Explain the condition of Myopia (near-sightedness). Draw a labeled ray diagram showing how this defect is corrected."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Why are decomposition reactions considered endothermic reactions? Give one balanced chemical equation of a decomposition reaction where heat is supplied.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Decomposition reactions are considered endothermic because they require energy (in the form of heat, light, or electricity) to break down the reactant into simpler products. The bond breaking process absorbs energy from the surroundings.\nExample (Thermal decomposition): \nCaCO₃ (s) + Heat → CaO (s) + CO₂ (g)",
+      "explanation": "This links the concept of chemical reactions (decomposition) with energy changes (endothermic nature) and requires a specific example.",
+      "question_type": "Short Answer",
+      "id": 187,
+      "source": "AI",
+      "question_text": "Why are decomposition reactions considered endothermic reactions? Give one balanced chemical equation of a decomposition reaction where heat is supplied."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Differentiate between acquired traits and inherited traits. Give one example for each.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Inherited traits are characteristics that are genetically controlled and passed down from parents to offspring (e.g., eye color, blood group). They cause changes in the DNA of germ cells.\nAcquired traits are characteristics developed during an individual's lifetime due to environmental influence, learning, or usage (e.g., learning to swim, muscle development through exercise). They do not change the DNA of germ cells and are not passed on to the next generation.",
+      "explanation": "A fundamental concept in Heredity, testing knowledge of the difference between genetic and environmental influence.",
+      "question_type": "Short Answer",
+      "id": 188,
+      "source": "AI",
+      "question_text": "Differentiate between acquired traits and inherited traits. Give one example for each."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State the three R's to save the environment. Explain any one of them with a suitable example.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "The three R's are: Reduce, Reuse, and Recycle.\nExplanation (Example: Reuse): Reuse means using things again and again instead of throwing them away. This minimizes waste generation immediately. Example: Using old glass jars to store kitchen supplies or using plastic bottles for watering plants instead of buying new containers.",
+      "explanation": "Tests knowledge of sustainable management practices and requires practical application.",
+      "question_type": "Short Answer",
+      "id": 189,
+      "source": "AI",
+      "question_text": "State the three R's to save the environment. Explain any one of them with a suitable example."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Describe the main steps of digestion that occur in the small intestine. Mention the role of the liver and pancreas in this process.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Easy",
+      "answer": "The small intestine is the site of complete digestion and absorption. \n1. Role of Liver: Releases bile juice, which emulsifies large fat globules into smaller ones, increasing the efficiency of enzyme action. Bile also makes the acidic food (from the stomach) alkaline for pancreatic enzymes to work.\n2. Role of Pancreas: Releases pancreatic juice containing trypsin (for protein digestion), pancreatic amylase (for starch digestion), and lipase (for fat digestion).\n3. Digestion in the Small Intestine: Intestinal juice contains enzymes that finally convert proteins into amino acids, complex carbohydrates into glucose, and fats into fatty acids and glycerol. These end products are then absorbed through the villi.",
+      "explanation": "A core Biology topic requiring sequential explanation of organ function and enzymatic action.",
+      "question_type": "Long Answer",
+      "id": 190,
+      "source": "AI",
+      "question_text": "Describe the main steps of digestion that occur in the small intestine. Mention the role of the liver and pancreas in this process."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Define resistance. List the four factors on which the resistance of a conductor depends. Calculate the current flowing through an electric heater operating at 220 V if its resistance is 50 Ω.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Easy",
+      "answer": "Resistance (R) is the property of a conductor to oppose the flow of electric current through it. Its SI unit is the Ohm (Ω).\nFactors affecting resistance:\n1. Length of the conductor (R ∝ L)\n2. Area of cross-section (R ∝ 1/A)\n3. Nature of the material\n4. Temperature\nCalculation: Given V = 220 V, R = 50 Ω.\nUsing Ohm’s Law, V = I * R.\nI = V / R\nI = 220 V / 50 Ω\nI = 4.4 A\nThe current flowing is 4.4 Amperes.",
+      "explanation": "Tests foundational knowledge of Electricity (definition, factors, and basic application of Ohm's Law).",
+      "question_type": "Long Answer",
+      "id": 191,
+      "source": "AI",
+      "question_text": "Define resistance. List the four factors on which the resistance of a conductor depends. Calculate the current flowing through an electric heater operating at 220 V if its resistance is 50 Ω."
+    },
+    {
+      "type": "Long Answer",
+      "question": "a) Draw the electron dot structure for Ethyne (C₂H₂) and Propanone (CH₃COCH₃).\nb) Explain two unique properties of the Carbon atom that enable it to form such a large number of compounds.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "a) Electron Dot Structures:\nEthyne (C₂H₂): Shows a triple bond between the two carbon atoms and single bonds to hydrogens. (Structure should depict 6 shared electrons between Cs and 2 shared electrons for C-H bonds).\nPropanone (CH₃COCH₃): Shows a double bond between the central carbon and oxygen atom, and single bonds linking the central carbon to the two methyl (CH₃) groups.\nb) Unique properties of Carbon:\n1. Catenation: The unique ability of carbon atoms to link with other carbon atoms to form long chains, branched chains, or closed rings. This forms stable C-C bonds, allowing for the creation of vast molecular diversity.\n2. Tetravalency: Carbon has a valency of four, allowing it to bond with four other atoms (carbon, hydrogen, oxygen, nitrogen, etc.). This capability allows it to form multiple bonds (single, double, or triple) and complex structures.",
+      "explanation": "Requires drawing complex electron dot structures (Ethyne and Ketone) and recall of specialized properties of Carbon compounds (Catenation and Tetravalency).",
+      "question_type": "Long Answer",
+      "id": 192,
+      "source": "AI",
+      "question_text": "a) Draw the electron dot structure for Ethyne (C₂H₂) and Propanone (CH₃COCH₃).\nb) Explain two unique properties of the Carbon atom that enable it to form such a large number of compounds."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain the principle and working of an Electric Motor. Draw a labeled diagram showing the main components.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Principle: An electric motor works on the principle that when a current-carrying conductor is placed perpendicularly in a magnetic field, it experiences a force (Lorentz force).\nWorking: \n1. Current is supplied to the coil (ABCD) via the commutator and brushes.\n2. Since the current direction in arm AB is opposite to that in arm CD, the forces acting on these arms are opposite (determined by Fleming’s Left-Hand Rule).\n3. The forces produce a torque, causing the coil to rotate.\n4. The split ring (commutator) reverses the direction of the current in the coil every half rotation, ensuring that the force applied is always in the same rotational direction, thus maintaining continuous rotation.\n(A labeled diagram showing Magnet, Armature Coil, Split Rings/Commutator, and Brushes is required.)",
+      "explanation": "A high-level Physics question requiring understanding of the working mechanism, principle, and the function of the commutator, often difficult for Class 10 students.",
+      "question_type": "Long Answer",
+      "id": 193,
+      "source": "AI",
+      "question_text": "Explain the principle and working of an Electric Motor. Draw a labeled diagram showing the main components."
+    },
+    {
+      "type": "Long Answer",
+      "question": "a) Write down three points of difference between sexual and asexual reproduction.\nb) Describe the process of 'Tissue Culture' as a method of artificial propagation.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "a) Differences:\n1. Gametes: Sexual reproduction involves the fusion of male and female gametes; Asexual reproduction does not.\n2. Offspring: Sexual reproduction produces genetic variation; Asexual reproduction produces genetically identical clones.\n3. Parents: Sexual reproduction usually involves two parents; Asexual reproduction involves a single parent.\nb) Tissue Culture (Micropropagation):\nTissue culture is the growth of new plants from a small piece of plant tissue or a specialized cell (explants) in a controlled, sterile laboratory environment. The explant is placed on a nutrient medium containing hormones. The cells divide rapidly to form an undifferentiated mass called a callus. The callus is then transferred to another medium containing growth hormones that induce the differentiation of roots and shoots. Finally, the small plantlets are transferred to soil.",
+      "explanation": "Combines a biological comparison (reproduction types) with a detailed explanation of a specific modern technique (Tissue Culture).",
+      "question_type": "Long Answer",
+      "id": 194,
+      "source": "AI",
+      "question_text": "a) Write down three points of difference between sexual and asexual reproduction.\nb) Describe the process of 'Tissue Culture' as a method of artificial propagation."
+    },
+    {
+      "type": "Match",
+      "question": "Match the items in Column I with the correct description or function in Column II.",
+      "options": [],
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "1: C, 2: E, 3: A, 4: B, 5: D",
+      "explanation": "Tests knowledge across Chemistry (Baking Soda, Metals), Physics (Focal Length), and Biology (Endocrine System).",
+      "items": [
+        {
+          "Column I": "1. Thyroxin Hormone",
+          "Column II": "A. Extraction of highly reactive metals"
+        },
+        {
+          "Column I": "2. Electrolytic Reduction",
+          "Column II": "B. Sodium Hydrogen Carbonate"
+        },
+        {
+          "Column I": "3. Power of Lens",
+          "Column II": "C. Regulates carbohydrate, protein, and fat metabolism"
+        },
+        {
+          "Column I": "4. Baking Soda",
+          "Column II": "D. Total internal reflection"
+        },
+        {
+          "Column I": "5. Optical Fibre",
+          "Column II": "E. Reciprocal of focal length (in meters)"
+        }
+      ],
+      "question_type": "Matching",
+      "id": 195,
+      "source": "AI",
+      "question_text": "Match the items in Column I with the correct description or function in Column II."
+    },
+    {
+      "type": "Case Study",
+      "question": "Read the following passage and answer the questions based on the concepts of light and vision.\nThe eye lens is a flexible, biconvex structure whose curvature can be altered by the action of the ciliary muscles. This flexibility allows the lens to adjust its focal length, enabling the eye to focus on objects located at various distances. This ability is called accommodation. However, this power of accommodation is limited. For a normal eye, the far point is infinity and the near point is 25 cm.",
+      "options": [],
+      "marks": 4,
+      "difficulty": "Medium",
+      "answer": "A) Accommodation is the ability of the eye lens to adjust its focal length by changing its curvature (via ciliary muscle action) so that sharp images of objects at varying distances are formed on the retina. B) The ciliary muscles relax. This makes the eye lens thinner (less convex), thereby increasing the focal length. C) The near point shifts away from 25 cm. The eye cannot focus on objects placed close to it. D) Presbyopia.",
+      "explanation": "Source-based question focusing on the physics and biology of the Human Eye (accommodation and near/far points).",
+      "sub_questions": [
+        "A. Define the term 'Power of Accommodation'.",
+        "B. What happens to the ciliary muscles and the lens when the eye is focusing on a distant object?",
+        "C. How does the near point change for an elderly person?",
+        "D. Name the defect that causes the inability to see near objects due to the weakening of ciliary muscles."
+      ],
+      "question_type": "Case Study",
+      "id": 196,
+      "source": "AI",
+      "question_text": "Read the following passage and answer the questions based on the concepts of light and vision.\nThe eye lens is a flexible, biconvex structure whose curvature can be altered by the action of the ciliary muscles. This flexibility allows the lens to adjust its focal length, enabling the eye to focus on objects located at various distances. This ability is called accommodation. However, this power of accommodation is limited. For a normal eye, the far point is infinity and the near point is 25 cm."
+    },
+    {
+      "type": "Case Study",
+      "question": "A student studied the experiments performed by Mendel using pea plants. He crossed pure tall pea plants (TT) with pure dwarf pea plants (tt). He found that all offspring in the F1 generation were tall. When he self-pollinated the F1 generation, he observed that both tall and dwarf plants appeared in the F2 generation, in a ratio of 3:1.",
+      "options": [],
+      "marks": 4,
+      "difficulty": "Hard",
+      "answer": "A) The genotype of the F1 generation is Tt (heterozygous tall). B) Dwarf trait (t) is recessive, meaning it only expresses itself when two copies of the allele are present (tt). In F1 (Tt), the dominant tall allele (T) masks the effect of the dwarf allele (t). C) The Law of Segregation states that during gamete formation, the alleles for a trait separate or segregate from each other so that each gamete receives only one allele. D) If a pure tall (TT) plant is crossed with a homozygous recessive (tt) plant, the resulting offspring (F1) will all be Tt (Tall). The phenotypic ratio is 100% Tall.",
+      "explanation": "Case study analyzing Mendel's Monohybrid Cross and requiring application of genetic terms (genotype, dominant/recessive) and laws (Segregation). Question D requires predictive ability based on the cross.",
+      "question_type": "Case Study",
+      "id": 197,
+      "source": "AI",
+      "question_text": "A student studied the experiments performed by Mendel using pea plants. He crossed pure tall pea plants (TT) with pure dwarf pea plants (tt). He found that all offspring in the F1 generation were tall. When he self-pollinated the F1 generation, he observed that both tall and dwarf plants appeared in the F2 generation, in a ratio of 3:1."
+    }
+  ],
+  "summary": {
+    "total_questions": 23,
+    "total_marks": 61
+  }
+}

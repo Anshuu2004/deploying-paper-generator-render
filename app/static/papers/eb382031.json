@@ -1,0 +1,188 @@
+{
+  "paper_id": "eb382031",
+  "examName": "asdfg",
+  "schoolName": "asdfgdf",
+  "schoolBoard": "CBSE",
+  "class": "10",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which of the following reaction types is always associated with the release of heat?",
+      "options": [
+        "Decomposition Reaction",
+        "Endothermic Reaction",
+        "Exothermic Reaction",
+        "Displacement Reaction"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Exothermic reactions are chemical reactions that release energy, usually in the form of heat and light.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Which of the following reaction types is always associated with the release of heat?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The primary site where aerobic respiration occurs in eukaryotic cells is the:",
+      "options": [
+        "Cytoplasm",
+        "Mitochondria",
+        "Nucleus",
+        "Endoplasmic Reticulum"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Aerobic respiration, which breaks down glucose fully to produce energy, primarily takes place in the mitochondria.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "The primary site where aerobic respiration occurs in eukaryotic cells is the:"
+    },
+    {
+      "type": "MCQ",
+      "question": "If the length of a resistor wire is doubled and its cross-sectional area is halved, the new resistance will be:",
+      "options": [
+        "Unchanged",
+        "Doubled",
+        "Halved",
+        "Quadrupled"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "D",
+      "explanation": "Resistance R is proportional to L/A. If L becomes 2L and A becomes A/2, R_new = (2L) / (A/2) = 4 * (L/A). The resistance is quadrupled.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "If the length of a resistor wire is doubled and its cross-sectional area is halved, the new resistance will be:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following represents a homologous series?",
+      "options": [
+        "CH₄, C₂H₂, C₃H₄",
+        "C₂H₆, C₃H₆, C₄H₈",
+        "CH₃OH, C₂H₅OH, C₃H₇OH",
+        "C₆H₆, C₇H₈, C₈H₊"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "A homologous series consists of compounds having the same general formula and functional group (here, alcohols -OH), differing by a CH₂ unit. Options A and B contain mixed classes/unsaturated hydrocarbons, and D is not a standard series.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Which of the following represents a homologous series?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Why does the sky appear blue during the day?",
+      "options": [
+        "Reflection of blue light from oceans",
+        "Absorption of all colors except blue by the atmosphere",
+        "Scattering of shorter wavelength (blue) light by fine particles in the atmosphere",
+        "Dispersion of sunlight by water droplets"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "C",
+      "explanation": "The blue color of the sky is due to the scattering of light by atmospheric particles (Rayleigh scattering). Blue light has the shortest visible wavelength and is scattered most effectively.",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Why does the sky appear blue during the day?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which method of asexual reproduction is commonly observed in the organism Leishmania?",
+      "options": [
+        "Budding",
+        "Binary Fission in any plane",
+        "Multiple Fission",
+        "Binary Fission in a definite plane"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "Leishmania divides by binary fission, but unlike Amoeba, it occurs in a specific, definite plane relative to its whip-like structure (flagellum).",
+      "question_type": "MCQ",
+      "source": "AI",
+      "question_text": "Which method of asexual reproduction is commonly observed in the organism Leishmania?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Draw a flow chart depicting the path taken by an impulse in a reflex arc. Mention the roles of the sensory and motor neurons.",
+      "options": [],
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "The flow chart is: Receptor → Sensory Neuron → Spinal Cord (Relay Neuron) → Motor Neuron → Effector (Muscle/Gland).\nRoles:\n1. Sensory Neuron: Carries the signal from the receptor (sense organ) towards the Central Nervous System (Spinal Cord).\n2. Motor Neuron: Carries the response signal from the Spinal Cord to the effector organ (muscle) to perform the action.",
+      "explanation": "A reflex arc shows the fastest route for impulse transmission. Sensory neurons bring information in, and motor neurons carry instructions out.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Draw a flow chart depicting the path taken by an impulse in a reflex arc. Mention the roles of the sensory and motor neurons."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A student performs an experiment to study the magnetic field produced by a current-carrying straight conductor. State the rule used to determine the direction of the magnetic field and briefly explain how it is applied.",
+      "options": [],
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "Rule: Right-Hand Thumb Rule (or Maxwell's Corkscrew Rule).\nApplication: Imagine grasping the wire in the right hand such that the thumb points in the direction of the electric current (I). The direction in which the fingers curl around the conductor gives the direction of the magnetic field lines (B).",
+      "explanation": "The Right-Hand Thumb Rule links the direction of current flow with the circular magnetic field produced around it.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "A student performs an experiment to study the magnetic field produced by a current-carrying straight conductor. State the rule used to determine the direction of the magnetic field and briefly explain how it is applied."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Define a neutralization reaction. Write a balanced chemical equation for the reaction between Sodium Hydroxide and Hydrochloric acid.",
+      "options": [],
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "Definition: A neutralization reaction is a chemical reaction in which an acid reacts completely with a base to form salt and water.\nEquation: NaOH (aq) + HCl (aq) → NaCl (aq) + H₂O (l)",
+      "explanation": "Neutralization reactions involve the combination of H⁺ ions (from acid) and OH⁻ ions (from base) to form water, leaving a salt solution.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "Define a neutralization reaction. Write a balanced chemical equation for the reaction between Sodium Hydroxide and Hydrochloric acid."
+    },
+    {
+      "type": "Short Answer",
+      "question": "An object is placed 50 cm from a convex lens. If the focal length of the lens is 20 cm, calculate the power of the lens and determine the nature of the image formed.",
+      "options": [],
+      "marks": 2,
+      "difficulty": "Medium",
+      "answer": "1. Calculation of Power (P):\nFocal length (f) = 20 cm = 0.20 m.\nPower (P) = 1/f = 1/0.20 = +5 Dioptres (D).\n2. Nature of Image:\nSince the object distance (u = -50 cm) is greater than 2f (2f = 40 cm), the image will be formed between f and 2f on the other side.\nNature: Real, Inverted, and Diminished.",
+      "explanation": "Power is the reciprocal of the focal length in meters. For a convex lens, if u > 2f, the image is real, inverted, and diminished.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "An object is placed 50 cm from a convex lens. If the focal length of the lens is 20 cm, calculate the power of the lens and determine the nature of the image formed."
+    },
+    {
+      "type": "Short Answer",
+      "question": "How is the creation of variations during reproduction important for the survival of the species? Explain with an example.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Variation is crucial because it allows species to adapt to changing environments. If a population consists only of identical individuals, and the environment changes drastically (e.g., introduction of a new disease or change in temperature), the entire population could be wiped out.\nExample: If a population of bacteria lives in warm water, and the temperature rises significantly, only those individual bacteria that have a genetic variation allowing them to tolerate higher heat will survive and reproduce. This ensures the continuation of the species, even though the majority perished.",
+      "explanation": "Variations, particularly those arising from sexual reproduction or mutations, provide the raw material for natural selection, driving evolution and long-term species survival.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "How is the creation of variations during reproduction important for the survival of the species? Explain with an example."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A metal 'X' is found to react vigorously with cold water, producing hydrogen gas and a solution of its hydroxide. When 'X' is heated strongly with iron oxide, the reaction is highly exothermic, producing molten iron.\n1. Identify metal 'X'.\n2. Write the balanced chemical equation for the reaction between 'X' and iron oxide.\n3. What category of reaction is represented by the action of 'X' on iron oxide?",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "1. Identification: Metal 'X' reacts vigorously with cold water (implying high reactivity) and can displace iron from its oxide (meaning it is more reactive than iron). X is Aluminum (Al) or Potassium (K) or Sodium (Na). Given its common use in displacement reactions like the thermite reaction to produce molten iron, the most suitable answer is Aluminum (Al).\n2. Equation for reaction with Iron Oxide (Thermite Reaction, assuming X=Al):\n2Al (s) + Fe₂O₃ (s) → Al₂O₃ (s) + 2Fe (l) + Heat\n3. Category of reaction: Displacement reaction (specifically, a highly exothermic Thermite reaction).",
+      "explanation": "Aluminum is highly reactive, though its reaction with cold water is slow due to the oxide layer. Its ability to reduce Fe₂O₃ exothermically (Thermite reaction) confirms it is much higher in the reactivity series than Iron, classifying the reaction as displacement.",
+      "question_type": "Short Answer",
+      "source": "AI",
+      "question_text": "A metal 'X' is found to react vigorously with cold water, producing hydrogen gas and a solution of its hydroxide. When 'X' is heated strongly with iron oxide, the reaction is highly exothermic, producing molten iron.\n1. Identify metal 'X'.\n2. Write the balanced chemical equation for the reaction between 'X' and iron oxide.\n3. What category of reaction is represented by the action of 'X' on iron oxide?"
+    }
+  ],
+  "summary": {
+    "total_questions": 12,
+    "total_marks": 20
+  }
+}

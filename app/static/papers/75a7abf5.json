@@ -1,0 +1,226 @@
+{
+  "paper_id": "75a7abf5",
+  "examName": "bbj",
+  "schoolName": "kj j",
+  "schoolBoard": "CBSE",
+  "class": "9",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "The process in which a gas changes directly into liquid state without passing through the solid state is called:",
+      "options": [
+        "Melting",
+        "Sublimation",
+        "Evaporation",
+        "Condensation"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "Condensation is the process where water vapour or gas turns back into liquid, usually due to cooling.",
+      "question_type": "MCQ",
+      "id": 1,
+      "source": "AI",
+      "question_text": "The process in which a gas changes directly into liquid state without passing through the solid state is called:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which cell organelle is known as the 'Powerhouse of the cell' because it produces ATP?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Chloroplast",
+        "Endoplasmic Reticulum"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Mitochondria are the sites of cellular respiration, which generates ATP (energy currency).",
+      "question_type": "MCQ",
+      "id": 2,
+      "source": "AI",
+      "question_text": "Which cell organelle is known as the 'Powerhouse of the cell' because it produces ATP?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If an object is taken from the Earth to the Moon, which of the following physical quantities will change?",
+      "options": [
+        "Mass",
+        "Density",
+        "Volume",
+        "Weight"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "D",
+      "explanation": "Weight (W = mg) changes because the acceleration due to gravity (g) is different on the Moon, while mass remains constant.",
+      "question_type": "MCQ",
+      "id": 3,
+      "source": "AI",
+      "question_text": "If an object is taken from the Earth to the Moon, which of the following physical quantities will change?"
+    },
+    {
+      "type": "MCQ",
+      "question": "An atom of an element contains 6 protons and 6 neutrons. What is the mass number of this atom?",
+      "options": [
+        "6",
+        "0",
+        "12",
+        "18"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Mass number is the sum of the number of protons and neutrons in the nucleus (6 + 6 = 12).",
+      "question_type": "MCQ",
+      "id": 4,
+      "source": "AI",
+      "question_text": "An atom of an element contains 6 protons and 6 neutrons. What is the mass number of this atom?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The primary function of Xylem tissue in plants is the transport of:",
+      "options": [
+        "Sugars and manufactured food",
+        "Water and dissolved minerals from the roots",
+        "Hormones synthesized in the shoot tip",
+        "Amino acids only"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Xylem tissue is specialized for the upward conduction of water and dissolved mineral salts from the roots to other parts of the plant.",
+      "question_type": "MCQ",
+      "id": 5,
+      "source": "AI",
+      "question_text": "The primary function of Xylem tissue in plants is the transport of:"
+    },
+    {
+      "type": "MCQ",
+      "question": "A body continues to be in its state of rest or uniform motion unless acted upon by an external force. This principle defines:",
+      "options": [
+        "Law of conservation of energy",
+        "Newton's First Law of Motion (Law of Inertia)",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Newton's First Law defines inertia, stating that an object maintains its velocity unless an external force acts on it.",
+      "question_type": "MCQ",
+      "id": 6,
+      "source": "AI",
+      "question_text": "A body continues to be in its state of rest or uniform motion unless acted upon by an external force. This principle defines:"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Define acceleration and state its SI unit. If a bus starting from rest attains a speed of 30 m/s in 10 seconds, calculate its acceleration.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Acceleration is defined as the rate of change of velocity. Its SI unit is meter per second squared (m/s²).\nCalculation: Initial velocity (u) = 0 m/s. Final velocity (v) = 30 m/s. Time (t) = 10 s.\nAcceleration (a) = (v - u) / t = (30 - 0) / 10 = 3 m/s².",
+      "explanation": "Acceleration is a fundamental concept in motion. The calculation is a direct application of the definition formula a=(v-u)/t.",
+      "question_type": "Short Answer",
+      "id": 7,
+      "source": "AI",
+      "question_text": "Define acceleration and state its SI unit. If a bus starting from rest attains a speed of 30 m/s in 10 seconds, calculate its acceleration."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Briefly state the primary functions of two important cell organelles: (i) Ribosomes and (ii) Smooth Endoplasmic Reticulum (SER).",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "(i) Ribosomes: They are the sites of protein synthesis (translation) in the cell.\n(ii) Smooth Endoplasmic Reticulum (SER): It is crucial for the synthesis of lipids and steroids, and also plays a role in the detoxification of poisons and drugs in liver cells.",
+      "explanation": "This tests basic knowledge regarding the structure and function of key cellular components.",
+      "question_type": "Short Answer",
+      "id": 8,
+      "source": "AI",
+      "question_text": "Briefly state the primary functions of two important cell organelles: (i) Ribosomes and (ii) Smooth Endoplasmic Reticulum (SER)."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Differentiate between a True Solution and a Suspension based on (i) particle size and (ii) stability.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "True Solution vs. Suspension:\n(i) Particle Size: True solutions have particle sizes less than 1 nm, whereas Suspensions have particle sizes greater than 100 nm.\n(ii) Stability: True solutions are highly stable; the particles do not settle down. Suspensions are unstable; the particles settle down under gravity upon standing.",
+      "explanation": "Differentiating characteristics of different types of mixtures, based on physical properties.",
+      "question_type": "Short Answer",
+      "id": 9,
+      "source": "AI",
+      "question_text": "Differentiate between a True Solution and a Suspension based on (i) particle size and (ii) stability."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State Newton's Second Law of Motion. Give the mathematical relation derived from this law, and define the resulting unit of force.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Newton's Second Law states that the rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of the force.\nMathematical relation: F = ma (Force = mass × acceleration).\nUnit of Force: The SI unit of force is the Newton (N). One Newton is defined as the force required to produce an acceleration of 1 m/s² in an object of mass 1 kg.",
+      "explanation": "Understanding the conceptual and mathematical aspects of Newton's second law.",
+      "question_type": "Short Answer",
+      "id": 10,
+      "source": "AI",
+      "question_text": "State Newton's Second Law of Motion. Give the mathematical relation derived from this law, and define the resulting unit of force."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain why organisms like Viruses are often considered controversial or are excluded from R.H. Whittaker's Five Kingdom Classification system. Give two reasons.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "Viruses are excluded because they do not display the characteristics of life until they enter a living cell, making them borderline between living and non-living.\n1. Non-cellular Structure: Viruses lack cellular machinery (like ribosomes or cytoplasm) and are essentially nucleic acid coated by protein, hence they do not fit into any kingdom based on cell structure.\n2. Obligate Parasitism: They can only reproduce by hijacking the metabolic machinery of a host cell. Outside a host, they are inert particles.",
+      "explanation": "This requires knowledge of viral structure and the criteria used for the Five Kingdom Classification.",
+      "question_type": "Short Answer",
+      "id": 11,
+      "source": "AI",
+      "question_text": "Explain why organisms like Viruses are often considered controversial or are excluded from R.H. Whittaker's Five Kingdom Classification system. Give two reasons."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Describe the two major limitations of Rutherford's model of the atom concerning atomic stability. How did Niels Bohr attempt to overcome these limitations?",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "Limitations:\n1. Stability of the Atom: According to classical electromagnetic theory, an electron revolving in a circular orbit should accelerate and radiate energy. This would cause the electron to spiral into the nucleus, leading to the collapse of the atom, which contradicts observations.\n2. Spectral Explanation: Rutherford’s model could not explain the characteristic line spectra observed for elements.\nBohr's Resolution: Bohr proposed that electrons revolve only in specific, fixed orbits (discrete energy levels) and that they do not radiate energy while orbiting in these fixed shells, thus ensuring atomic stability.",
+      "explanation": "Requires critical understanding of the historical development of atomic models and their respective flaws.",
+      "question_type": "Short Answer",
+      "id": 12,
+      "source": "AI",
+      "question_text": "Describe the two major limitations of Rutherford's model of the atom concerning atomic stability. How did Niels Bohr attempt to overcome these limitations?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "List any three general principles that are essential for the prevention of infectious diseases in a community.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Three general principles of prevention:\n1. Providing public hygiene and clean surroundings (e.g., safe drinking water, proper waste disposal).\n2. Preventing exposure (e.g., maintaining social distancing, vector control).\n3. Strengthening the immune system through specific measures like vaccination (immunization).",
+      "explanation": "This covers basic public health measures discussed in 'Why Do We Fall Ill'.",
+      "question_type": "Short Answer",
+      "id": 13,
+      "source": "AI",
+      "question_text": "List any three general principles that are essential for the prevention of infectious diseases in a community."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Describe the critical role played by the bacterium Rhizobium in the Nitrogen Cycle and how this contributes to crop improvement.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Role of Rhizobium:\nRhizobium bacteria live symbiotically in the root nodules of leguminous plants (like peas and beans).\nCritical Role: They perform Nitrogen Fixation, the process of converting atmospheric nitrogen gas (N₂) into usable forms like nitrates and nitrites. Atmospheric N₂ cannot be directly utilized by plants.\nContribution to Crop Improvement: By fixing nitrogen, Rhizobium makes the soil naturally rich in nitrogen compounds, reducing the need for artificial fertilizers and enhancing crop productivity in leguminous crops.",
+      "explanation": "Focuses on the symbiotic relationship and its significance in nutrient cycling and agriculture.",
+      "question_type": "Short Answer",
+      "id": 14,
+      "source": "AI",
+      "question_text": "Describe the critical role played by the bacterium Rhizobium in the Nitrogen Cycle and how this contributes to crop improvement."
+    }
+  ],
+  "summary": {
+    "total_questions": 14,
+    "total_marks": 30
+  }
+}

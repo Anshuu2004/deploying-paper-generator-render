@@ -1,0 +1,430 @@
+{
+  "paper_id": "5a10a3a0",
+  "examName": "asdfg",
+  "schoolName": "dfg",
+  "schoolBoard": "CBSE",
+  "class": "9",
+  "subject": "Science",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which of the following processes requires heat energy to be released?",
+      "options": [
+        "Sublimation",
+        "Fusion",
+        "Condensation",
+        "Vaporization"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Condensation is the process where a gas turns into a liquid, releasing latent heat.",
+      "question_type": "MCQ",
+      "id": 3426,
+      "source": "AI",
+      "question_text": "Which of the following processes requires heat energy to be released?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If an element has atomic number 12 and mass number 24, how many neutrons does it possess?",
+      "options": [
+        "12",
+        "24",
+        "6",
+        "36"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "A",
+      "explanation": "Number of Neutrons = Mass Number - Atomic Number. 24 - 12 = 12.",
+      "question_type": "MCQ",
+      "id": 3427,
+      "source": "AI",
+      "question_text": "If an element has atomic number 12 and mass number 24, how many neutrons does it possess?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The cell organelle responsible for detoxifying poisons and drugs in liver cells is the:",
+      "options": [
+        "Rough Endoplasmic Reticulum (RER)",
+        "Mitochondria",
+        "Smooth Endoplasmic Reticulum (SER)",
+        "Golgi Apparatus"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Smooth Endoplasmic Reticulum (SER) plays a crucial role in detoxifying many poisons and drugs.",
+      "question_type": "MCQ",
+      "id": 3428,
+      "source": "AI",
+      "question_text": "The cell organelle responsible for detoxifying poisons and drugs in liver cells is the:"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which quantity remains constant when a body is falling freely under gravity?",
+      "options": [
+        "Velocity",
+        "Acceleration",
+        "Potential Energy",
+        "Kinetic Energy"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "B",
+      "explanation": "Acceleration due to gravity (g) is constant for a freely falling body near the Earth's surface.",
+      "question_revised": "Which quantity remains constant when a body is falling freely under gravity?",
+      "options_revised": [
+        "Velocity",
+        "Acceleration",
+        "Potential Energy",
+        "Kinetic Energy"
+      ],
+      "answer_revised": "B",
+      "explanation_revised": "Acceleration due to gravity (g) is constant for a freely falling body near the Earth's surface.",
+      "question_type": "MCQ",
+      "id": 3429,
+      "source": "AI",
+      "question_text": "Which quantity remains constant when a body is falling freely under gravity?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which phylum is characterized by having jointed appendages and segmented bodies?",
+      "options": [
+        "Mollusca",
+        "Annelida",
+        "Arthropoda",
+        "Platyhelminthes"
+      ],
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "C",
+      "explanation": "Arthropoda (like insects and spiders) is the largest phylum characterized by jointed legs.",
+      "question_type": "MCQ",
+      "id": 3430,
+      "source": "AI",
+      "question_text": "Which phylum is characterized by having jointed appendages and segmented bodies?"
+    },
+    {
+      "type": "MCQ",
+      "question": "The intensity of sound is measured in units of:",
+      "options": [
+        "Hertz (Hz)",
+        "Metres per second (m/s)",
+        "Decibel (dB)",
+        "Joule (J)"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "C",
+      "explanation": "Sound intensity or loudness is commonly measured in decibels (dB).",
+      "question_type": "MCQ",
+      "id": 3431,
+      "source": "AI",
+      "question_text": "The intensity of sound is measured in units of:"
+    },
+    {
+      "type": "Fill",
+      "question": "The movement of water molecules through a selectively permeable membrane is called _______________.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Osmosis",
+      "explanation": "Osmosis is the specific movement of solvent (usually water) across a semi-permeable membrane.",
+      "question_type": "Fill in the Blanks",
+      "id": 3432,
+      "source": "AI",
+      "options": null,
+      "question_text": "The movement of water molecules through a selectively permeable membrane is called _______________."
+    },
+    {
+      "type": "Fill",
+      "question": "A substance that contains only one type of particle (atoms or molecules) is known as a _______________ substance.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "Pure",
+      "explanation": "Pure substances are elements or compounds defined by having uniform composition and one type of particle.",
+      "question_type": "Fill in the Blanks",
+      "id": 3433,
+      "source": "AI",
+      "options": null,
+      "question_text": "A substance that contains only one type of particle (atoms or molecules) is known as a _______________ substance."
+    },
+    {
+      "type": "Fill",
+      "question": "The tendency of an object to resist changes in its state of motion or rest is called _______________.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Inertia",
+      "explanation": "Inertia is the fundamental property described by Newton's First Law of Motion.",
+      "question_type": "Fill in the Blanks",
+      "id": 3434,
+      "source": "AI",
+      "options": null,
+      "question_text": "The tendency of an object to resist changes in its state of motion or rest is called _______________."
+    },
+    {
+      "type": "Fill",
+      "question": "The formula unit mass of $NaCl$ is calculated using the atomic masses of $Na$ (23 u) and $Cl$ (35.5 u), resulting in _______________ u.",
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "58.5",
+      "explanation": "Formula unit mass = 23 u + 35.5 u = 58.5 u.",
+      "question_type": "Fill in the Blanks",
+      "id": 3435,
+      "source": "AI",
+      "options": null,
+      "question_text": "The formula unit mass of $NaCl$ is calculated using the atomic masses of $Na$ (23 u) and $Cl$ (35.5 u), resulting in _______________ u."
+    },
+    {
+      "type": "Fill",
+      "question": "The permanent tissue responsible for providing flexibility to plant parts, like leaf stalks, is _______________.",
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "Collenchyma",
+      "explanation": "Collenchyma provides mechanical support and flexibility without making the parts too stiff.",
+      "question_type": "Fill in the Blanks",
+      "id": 3436,
+      "source": "AI",
+      "options": null,
+      "question_text": "The permanent tissue responsible for providing flexibility to plant parts, like leaf stalks, is _______________."
+    },
+    {
+      "type": "Fill",
+      "question": "The Earth is divided into major spheres: the atmosphere, the hydrosphere, and the _______________.",
+      "marks": 1,
+      "difficulty": "Hard",
+      "answer": "Lithosphere",
+      "explanation": "The Lithosphere refers to the solid outer crust of the Earth. The Biosphere is sometimes included, but Lithosphere is typically counted among the three fundamental spheres.",
+      "question_type": "Fill in the Blanks",
+      "id": 3437,
+      "source": "AI",
+      "options": null,
+      "question_text": "The Earth is divided into major spheres: the atmosphere, the hydrosphere, and the _______________."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Why is the nucleus called the functional center of the cell? List two main functions of the nucleus.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "The nucleus is called the functional center of the cell because it houses the genetic material (chromosomes) which directs and controls all cellular activities, including protein synthesis and cell division.\nFunctions:\n1. Controlling all metabolic activities of the cell.\n2. Storing and transmitting hereditary information (DNA) to the next generation of cells.",
+      "explanation": "This assesses knowledge of the fundamental role of the cell nucleus.",
+      "question_type": "Short Answer",
+      "id": 3438,
+      "source": "AI",
+      "options": null,
+      "question_text": "Why is the nucleus called the functional center of the cell? List two main functions of the nucleus."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Define potential energy and derive the expression for the potential energy of an object of mass 'm' raised to a height 'h'.",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Potential energy is the energy possessed by an object due to its position or change in shape. \nDerivation:\nWork done (W) in lifting the object = Force (F) × displacement (h).\nSince the object is lifted against gravity, the force required F = mg.\nTherefore, W = mgh.\nThis work done is stored in the object as Gravitational Potential Energy (PE). Hence, PE = mgh.",
+      "explanation": "A straightforward derivation of the PE formula based on work done.",
+      "question_type": "Short Answer",
+      "id": 3439,
+      "source": "AI",
+      "options": null,
+      "question_text": "Define potential energy and derive the expression for the potential energy of an object of mass 'm' raised to a height 'h'."
+    },
+    {
+      "type": "Short Answer",
+      "question": "State the key differences between Parenchyma and Sclerenchyma tissues in plants.",
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "1. Nature of Cells: Parenchyma cells are generally living; Sclerenchyma cells are dead.\n2. Cell Walls: Parenchyma cell walls are thin and uniformly thickened; Sclerenchyma cell walls are thick due to lignin deposition.\n3. Function: Parenchyma primarily functions in storage and photosynthesis; Sclerenchyma provides mechanical strength and hardness.",
+      "explanation": "Distinguishing between two primary types of permanent plant tissues.",
+      "question_type": "Short Answer",
+      "id": 3440,
+      "source": "AI",
+      "options": null,
+      "question_text": "State the key differences between Parenchyma and Sclerenchyma tissues in plants."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A solution contains 30g of sugar dissolved in 370g of water. Calculate the concentration of the solution in terms of mass percentage.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Mass of solute (sugar) = 30 g.\nMass of solvent (water) = 370 g.\nTotal mass of solution = 30 g + 370 g = 400 g.\nConcentration (Mass %) = (Mass of Solute / Mass of Solution) × 100\nConcentration = (30 g / 400 g) × 100\nConcentration = 0.075 × 100 = 7.5%",
+      "explanation": "Numerical problem based on calculating solution concentration.",
+      "question_type": "Short Answer",
+      "id": 3441,
+      "source": "AI",
+      "options": null,
+      "question_text": "A solution contains 30g of sugar dissolved in 370g of water. Calculate the concentration of the solution in terms of mass percentage."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Derive the first equation of motion ($v = u + at$) using the graphical method.",
+      "marks": 3,
+      "difficulty": "Hard",
+      "answer": "Consider a velocity-time graph for an object moving with uniform acceleration 'a'. The initial velocity is 'u' (point A) and the final velocity is 'v' after time 't' (point B).\nAcceleration (a) is defined as the slope of the v-t graph.\n$a = \\text{Change in velocity} / \\text{Time taken}$\n$a = (BD - CD) / AD$\n$a = (v - u) / t$\nRearranging the equation: $at = v - u$\nTherefore, $v = u + at$.",
+      "explanation": "Requires understanding and application of velocity-time graph concepts to derive a kinematic equation.",
+      "question_type": "Short Answer",
+      "id": 3442,
+      "source": "AI",
+      "options": null,
+      "question_text": "Derive the first equation of motion ($v = u + at$) using the graphical method."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Define isotopes and isobars. Give one example of each.",
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "1. Isotopes: Atoms of the same element that have the same atomic number but different mass numbers (due to different numbers of neutrons).\nExample: Carbon-12 and Carbon-14.\n2. Isobars: Atoms of different elements that have the same mass number but different atomic numbers.\nExample: Argon-40 and Calcium-40.",
+      "explanation": "Testing definitional knowledge related to atomic structure.",
+      "question_type": "Short Answer",
+      "id": 3443,
+      "source": "AI",
+      "options": null,
+      "question_text": "Define isotopes and isobars. Give one example of each."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain the three states of matter (Solid, Liquid, Gas) based on their particle arrangement, kinetic energy, and intermolecular forces of attraction.",
+      "marks": 5,
+      "difficulty": "Easy",
+      "answer": "1. Solids: \n\tParticle Arrangement: Particles are closely packed in fixed positions.\n\tIntermolecular Forces: Very strong, holding particles tightly.\n\tKinetic Energy: Minimum. Particles only vibrate about their mean positions.\n2. Liquids: \n\tParticle Arrangement: Particles are close together but are not in fixed positions and can slide past each other.\n\tIntermolecular Forces: Moderate, weaker than solids but strong enough to keep the volume fixed.\n\tKinetic Energy: Moderate. Particles move randomly.\n3. Gases: \n\tParticle Arrangement: Particles are far apart from each other.\n\tIntermolecular Forces: Negligible/Very weak.\n\tKinetic Energy: Maximum. Particles move randomly and rapidly.",
+      "explanation": "A comprehensive comparison of the three states of matter based on molecular characteristics.",
+      "question_type": "Long Answer",
+      "id": 3444,
+      "source": "AI",
+      "options": null,
+      "question_text": "Explain the three states of matter (Solid, Liquid, Gas) based on their particle arrangement, kinetic energy, and intermolecular forces of attraction."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Describe the structure and function of the Plasma Membrane. Why is it called a selectively permeable membrane?",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "Structure: The plasma membrane is the outer covering of the cell. It is made up primarily of organic molecules like lipids and proteins. It is typically a fluid mosaic structure, consisting of a lipid bilayer in which protein molecules are embedded.\nFunction:\n1. Separates the cell contents from the external environment.\n2. Protects the cell and gives it shape.\n3. Regulates the movement of substances (entry and exit) into and out of the cell.\nSelectively Permeable: It is called selectively permeable (or semi-permeable) because it allows only certain molecules to pass through it, while preventing the passage of others. It controls which materials enter and leave the cell, maintaining the cell’s internal environment.",
+      "explanation": "Assesses detailed knowledge of cell membrane structure and function.",
+      "question_type": "Long Answer",
+      "id": 3445,
+      "source": "AI",
+      "options": null,
+      "question_text": "Describe the structure and function of the Plasma Membrane. Why is it called a selectively permeable membrane?"
+    },
+    {
+      "type": "Long Answer",
+      "question": "State Newton’s Law of Universal Gravitation. Based on this law, explain why the value of acceleration due to gravity (g) is greater at the poles than at the equator.",
+      "marks": 5,
+      "difficulty": "Hard",
+      "answer": "Newton’s Law of Universal Gravitation states that every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers.\n$F = G \\times (M_1 M_2) / R^2$.\n\nVariation of 'g' due to Earth's Shape:\nThe acceleration due to gravity (g) is related to the radius (R) of the Earth by the formula $g = GM/R^2$. Since $G$ and $M$ (mass of Earth) are constant, $g$ is inversely proportional to $R^2$. \n1. The Earth is not a perfect sphere; it is slightly flattened at the poles and bulges at the equator (oblate spheroid).\n2. Consequently, the radius of the Earth ($R_e$) at the equator is greater than the radius of the Earth ($R_p$) at the poles ($R_e > R_p$).\n3. Since $g$ is inversely related to $R^2$, where the radius is smaller (at the poles), the acceleration due to gravity ($g$) is greater, and vice versa. Thus, $g_{poles} > g_{equator}$.",
+      "explanation": "Requires stating the law and using the inverse square relationship to explain the geographical variation of 'g'.",
+      "question_type": "Long Answer",
+      "id": 3446,
+      "source": "AI",
+      "options": null,
+      "question_text": "State Newton’s Law of Universal Gravitation. Based on this law, explain why the value of acceleration due to gravity (g) is greater at the poles than at the equator."
+    },
+    {
+      "type": "Long Answer",
+      "question": "Calculate:\n(i) The formula unit mass of Sodium Carbonate ($Na_2CO_3$).\n(ii) The mass of 0.2 moles of oxygen gas ($O_2$).\n[Given Atomic Masses: Na=23 u; C=12 u; O=16 u]",
+      "marks": 5,
+      "difficulty": "Medium",
+      "answer": "(i) Formula Unit Mass of $Na_2CO_3$:\nMass = (2 × Mass of Na) + (1 × Mass of C) + (3 × Mass of O)\nMass = (2 × 23 u) + (1 × 12 u) + (3 × 16 u)\nMass = 46 u + 12 u + 48 u\nFormula Unit Mass = 106 u.\n\n(ii) Mass of 0.2 moles of oxygen gas ($O_2$):\nMolar mass of $O_2$ = 2 × 16 g/mol = 32 g/mol.\nMass = Moles × Molar Mass\nMass = 0.2 mol × 32 g/mol\nMass = 6.4 g.",
+      "explanation": "Numerical application of mole concept and formula mass calculation.",
+      "question_type": "Long Answer",
+      "id": 3447,
+      "source": "AI",
+      "options": null,
+      "question_text": "Calculate:\n(i) The formula unit mass of Sodium Carbonate ($Na_2CO_3$).\n(ii) The mass of 0.2 moles of oxygen gas ($O_2$).\n[Given Atomic Masses: Na=23 u; C=12 u; O=16 u]"
+    },
+    {
+      "type": "Long Answer",
+      "question": "Describe the water cycle and explain the role of condensation and precipitation in it.",
+      "marks": 5,
+      "difficulty": "Easy",
+      "answer": "The Water Cycle (Hydrologic Cycle) is the continuous movement of water on, above, and below the surface of the Earth. It involves several processes:\n1. Evaporation/Transpiration: Water turns into vapor and rises into the atmosphere.\n2. Condensation: Water vapor rises and cools down, forming tiny water droplets that aggregate to form clouds.\n3. Precipitation: The water droplets become too heavy and fall back to the Earth's surface as rain, snow, or hail.\n4. Runoff/Infiltration: Water flows across the land or seeps into the ground.\n\nRole of Condensation: Condensation is essential because it converts the gaseous water vapor back into liquid form (droplets) in the upper atmosphere, forming clouds. Without condensation, rain formation would not occur.\nRole of Precipitation: Precipitation returns the water stored in the atmosphere back to the lithosphere and hydrosphere, recharging groundwater, rivers, and oceans, thereby completing the cycle.",
+      "explanation": "Covers a key concept in natural resources, focusing on process definition and stages.",
+      "question_type": "Long Answer",
+      "id": 3448,
+      "source": "AI",
+      "options": null,
+      "question_text": "Describe the water cycle and explain the role of condensation and precipitation in it."
+    },
+    {
+      "type": "Long Answer",
+      "question": "State Newton's Second Law of Motion. Derive the mathematical formulation of the Second Law (F=ma).",
+      "marks": 5,
+      "difficulty": "Easy",
+      "answer": "Newton’s Second Law of Motion states that the rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of the force.\n\nDerivation of F = ma:\n1. Consider an object of mass $m$ with initial velocity $u$. A force $F$ is applied for time $t$, resulting in final velocity $v$.\n2. Initial Momentum ($P_1$) = $mu$.\n3. Final Momentum ($P_2$) = $mv$.\n4. Change in Momentum ($\\Delta P$) = $P_2 - P_1 = mv - mu = m(v - u)$.\n5. Rate of change of momentum = $\\Delta P / t = m(v - u) / t$.\n6. According to the Second Law, $F \\propto m(v - u) / t$.\n7. Since acceleration $a = (v - u) / t$, we substitute this into the proportion:\n$F \\propto ma$.\n8. By introducing a constant of proportionality $k$ (where $k=1$ in SI units), we get:\n$F = kma$\n$F = ma$.",
+      "explanation": "Requires precise statement of the law and step-by-step mathematical derivation.",
+      "question_type": "Long Answer",
+      "id": 3449,
+      "source": "AI",
+      "options": null,
+      "question_text": "State Newton's Second Law of Motion. Derive the mathematical formulation of the Second Law (F=ma)."
+    },
+    {
+      "type": "Case",
+      "question": "Read the following passage and answer the questions:\n\nOrganisms are grouped based on evolutionary relationship and organization complexity. The Kingdom Monera includes prokaryotic organisms (lacking a defined nucleus) like bacteria, which show tremendous diversity in nutrition (autotrophic or heterotrophic). Protista, however, includes single-celled eukaryotic organisms. These may have structures like cilia or flagella for movement. Fungi are multicellular eukaryotes but are heterotrophic and have cell walls made of chitin, distinguishing them significantly from the Kingdom Plantae.",
+      "marks": 4,
+      "difficulty": "Medium",
+      "answer": "A. Prokaryotic organisms. B. Presence of a well-defined nucleus and membrane-bound organelles. C. Fungi are heterotrophic and lack chloroplasts, while Plantae are autotrophic and perform photosynthesis. Fungi cell walls are made of chitin, while Plantae cell walls are made of cellulose. D. Protista.",
+      "explanation": "This case study tests classification knowledge in Diversity in Living Organisms.",
+      "sub_questions": [
+        {
+          "q": "What is the defining characteristic of the organisms belonging to Kingdom Monera?",
+          "type": "Short Answer",
+          "marks": 1
+        },
+        {
+          "q": "What is the key structural difference between Monera and Protista?",
+          "type": "Short Answer",
+          "marks": 1
+        },
+        {
+          "q": "Mention two reasons why Fungi are classified separately from Plantae.",
+          "type": "Short Answer",
+          "marks": 2
+        }
+      ],
+      "question_type": "Case Study",
+      "id": 3450,
+      "source": "AI",
+      "options": null,
+      "question_text": "Read the following passage and answer the questions:\n\nOrganisms are grouped based on evolutionary relationship and organization complexity. The Kingdom Monera includes prokaryotic organisms (lacking a defined nucleus) like bacteria, which show tremendous diversity in nutrition (autotrophic or heterotrophic). Protista, however, includes single-celled eukaryotic organisms. These may have structures like cilia or flagella for movement. Fungi are multicellular eukaryotes but are heterotrophic and have cell walls made of chitin, distinguishing them significantly from the Kingdom Plantae."
+    },
+    {
+      "type": "Case",
+      "question": "Read the following scenario and answer the questions:\n\nDriver X applies brakes suddenly upon seeing a stationary obstacle ahead. Due to the sudden application of brakes, the passengers in the bus lurch forward sharply. Furthermore, when the bus speeds up again, the bus driver observes that the necessary force required to accelerate the bus is much higher when the bus is fully loaded compared to when it is empty.",
+      "marks": 4,
+      "difficulty": "Hard",
+      "answer": "A. The passengers lurch forward due to inertia of motion (Newton's First Law). The passengers' bodies tend to remain in the state of motion (moving forward) even when the bus (the external frame) stops. B. Mass is the measure of inertia. A heavier bus (fully loaded) has greater mass, hence greater inertia. C. According to Newton's Second Law (F=ma), if acceleration 'a' is kept constant, a greater mass 'm' requires a proportionally greater force 'F'. D. Momentum is the product of mass and velocity ($p=mv$).",
+      "explanation": "This case study integrates concepts of Inertia, Newton's Laws, and the relationship between mass, force, and acceleration.",
+      "sub_questions": [
+        {
+          "q": "Which physical principle explains why the passengers lurch forward when brakes are applied suddenly?",
+          "type": "Short Answer",
+          "marks": 1
+        },
+        {
+          "q": "Why does a fully loaded bus require a greater accelerating force than an empty bus, based on the concept of inertia?",
+          "type": "Short Answer",
+          "marks": 1
+        },
+        {
+          "q": "State the relevant mathematical law that supports the observation about the required accelerating force.",
+          "type": "Short Answer",
+          "marks": 1
+        },
+        {
+          "q": "Define momentum using its mathematical formula.",
+          "type": "Short Answer",
+          "marks": 1
+        }
+      ],
+      "question_type": "Case Study",
+      "id": 3451,
+      "source": "AI",
+      "options": null,
+      "question_text": "Read the following scenario and answer the questions:\n\nDriver X applies brakes suddenly upon seeing a stationary obstacle ahead. Due to the sudden application of brakes, the passengers in the bus lurch forward sharply. Furthermore, when the bus speeds up again, the bus driver observes that the necessary force required to accelerate the bus is much higher when the bus is fully loaded compared to when it is empty."
+    }
+  ],
+  "summary": {
+    "total_questions": 26,
+    "total_marks": 68
+  }
+}

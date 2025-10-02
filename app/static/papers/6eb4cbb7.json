@@ -1,0 +1,169 @@
+{
+  "paper_id": "6eb4cbb7",
+  "examName": "",
+  "schoolName": "",
+  "schoolBoard": "CBSE",
+  "class": "7",
+  "subject": "Mathematics",
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "What is the value of (-15) + 8 - (-5)?",
+      "options": [
+        "-2",
+        "2",
+        "-12",
+        "18"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "A",
+      "explanation": "(-15) + 8 - (-5) = -15 + 8 + 5 = -15 + 13 = -2.",
+      "question_type": "MCQ",
+      "id": 256,
+      "source": "AI",
+      "question_text": "What is the value of (-15) + 8 - (-5)?"
+    },
+    {
+      "type": "MCQ",
+      "question": "If an angle measures 65 degrees, what is the measure of its complementary angle?",
+      "options": [
+        "115 degrees",
+        "25 degrees",
+        "90 degrees",
+        "35 degrees"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "B",
+      "explanation": "Complementary angles sum up to 90 degrees. 90 - 65 = 25 degrees.",
+      "question_type": "MCQ",
+      "id": 257,
+      "source": "AI",
+      "question_text": "If an angle measures 65 degrees, what is the measure of its complementary angle?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Simplify the expression: (2³)² ÷ 2⁴.",
+      "options": [
+        "2²",
+        "2¹²",
+        "2³",
+        "2⁺"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "A",
+      "explanation": "(2³)² = 2⁶. Then 2⁶ ÷ 2⁴ = 2⁶⁻⁴ = 2².",
+      "question_type": "MCQ",
+      "id": 258,
+      "source": "AI",
+      "question_text": "Simplify the expression: (2³)² ÷ 2⁴."
+    },
+    {
+      "type": "MCQ",
+      "question": "If two right-angled triangles are congruent, which criterion among the following is uniquely applicable to them?",
+      "options": [
+        "SAS",
+        "AAA",
+        "RHS",
+        "ASA"
+      ],
+      "marks": 1,
+      "difficulty": "Medium",
+      "answer": "C",
+      "explanation": "RHS (Right angle, Hypotenuse, Side) criterion is specifically used for congruence in right-angled triangles.",
+      "question_type": "MCQ",
+      "id": 259,
+      "source": "AI",
+      "question_text": "If two right-angled triangles are congruent, which criterion among the following is uniquely applicable to them?"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following rational numbers is equivalent to 5/(-3)?",
+      "options": [
+        "(-5)/3",
+        "5/3",
+        "(-10)/6",
+        "10/(-9)"
+      ],
+      "marks": 1,
+      "difficulty": "Easy",
+      "answer": "A",
+      "explanation": "A negative sign can be placed either in the numerator or denominator, or in the middle. 5/(-3) is equivalent to -5/3.",
+      "question_type": "MCQ",
+      "id": 260,
+      "source": "AI",
+      "question_text": "Which of the following rational numbers is equivalent to 5/(-3)?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Solve the simple equation: 5x + 7 = 3x - 1.",
+      "options": [],
+      "marks": 2,
+      "difficulty": "Easy",
+      "answer": "x = -4",
+      "explanation": "5x - 3x = -1 - 7.  2x = -8. x = -8/2. x = -4.",
+      "question_type": "Short Answer",
+      "id": 261,
+      "source": "AI",
+      "question_text": "Solve the simple equation: 5x + 7 = 3x - 1."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A rectangular park is 40 m long and 25 m wide. If a path 2 m wide is constructed all around the outside of the park, find the area of the path.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "276 sq m",
+      "explanation": "Outer dimensions: Length = 40 + 2 + 2 = 44 m, Width = 25 + 2 + 2 = 29 m. Area of outer rectangle = 44 * 29 = 1276 sq m. Area of inner park = 40 * 25 = 1000 sq m. Area of path = 1276 - 1000 = 276 sq m.",
+      "question_type": "Short Answer",
+      "id": 262,
+      "source": "AI",
+      "question_text": "A rectangular park is 40 m long and 25 m wide. If a path 2 m wide is constructed all around the outside of the park, find the area of the path."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Simplify the algebraic expression 3(2x + y) - 2(x - 3y) and then find its value when x = 1 and y = -1.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Medium",
+      "answer": "Simplified expression: 4x + 9y. Value: -5.",
+      "explanation": "Simplification: 6x + 3y - 2x + 6y = (6x - 2x) + (3y + 6y) = 4x + 9y. Value: 4(1) + 9(-1) = 4 - 9 = -5.",
+      "question_type": "Short Answer",
+      "id": 263,
+      "source": "AI",
+      "question_text": "Simplify the algebraic expression 3(2x + y) - 2(x - 3y) and then find its value when x = 1 and y = -1."
+    },
+    {
+      "type": "Short Answer",
+      "question": "A bicycle was purchased for ₹1500 and sold after one year for ₹1275. Calculate the loss percentage.",
+      "options": [],
+      "marks": 4,
+      "difficulty": "Hard",
+      "answer": "Loss Percentage = 15%",
+      "explanation": "Cost Price (CP) = ₹1500. Selling Price (SP) = ₹1275. Loss = CP - SP = 1500 - 1275 = ₹225. Loss percentage = (Loss / CP) * 100 = (225 / 1500) * 100. (225/15) = 15. Loss percentage = 15%.",
+      "question_type": "Short Answer",
+      "id": 264,
+      "source": "AI",
+      "question_text": "A bicycle was purchased for ₹1500 and sold after one year for ₹1275. Calculate the loss percentage."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Identify the number of faces, edges, and vertices of a cube.",
+      "options": [],
+      "marks": 3,
+      "difficulty": "Easy",
+      "answer": "Faces: 6, Edges: 12, Vertices: 8.",
+      "explanation": "A cube is a three-dimensional solid object bounded by six square faces, 12 edges, and 8 vertices (corners).",
+      "question_type": "Short Answer",
+      "id": 265,
+      "source": "AI",
+      "question_text": "Identify the number of faces, edges, and vertices of a cube."
+    }
+  ],
+  "summary": {
+    "total_questions": 10,
+    "total_marks": 20
+  }
+}
