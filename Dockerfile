@@ -1,7 +1,7 @@
 # Use a Python base image
 FROM python:3.13.7-slim-bookworm
 
-# Install system dependencies needed by WeasyPrint
+# Install system dependencies needed by WeasyPrint and MySQL
 RUN apt-get update && apt-get install -y \
     libcairo2 \
     libpango-1.0-0 \
@@ -17,10 +17,11 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
+
 # Make Python output appear immediately in logs
 ENV PYTHONUNBUFFERED 1
 
-# Set working directory in the container
+# Set working directory
 WORKDIR /app
 
 # Copy and install Python dependencies
@@ -34,6 +35,5 @@ COPY . /app/
 EXPOSE 8080
 
 # Run the app using Gunicorn
-CMD ["gunicorn", "-w", "1", "-k", "gthread", "-b", "0.0.0.0:8080", "--threads", "2", "--timeout", "300", "app:app"]
-
-
+# Use 1 worker + 4 threads and longer timeout for long-running AI requests
+CMD ["gunicorn", "run:app", "-w", "1", "-k", "gthread", "--threads", "4", "-b", "0.0.0.0:8080", "--timeout", "600", "--preload"]
