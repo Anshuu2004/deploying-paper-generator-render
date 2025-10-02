@@ -3,12 +3,13 @@ FROM python:3.13.7-slim-bookworm
 
 # Install system dependencies needed by WeasyPrint
 RUN apt-get update && apt-get install -y \
+    libcairo2 \
     libpango-1.0-0 \
     libpangocairo-1.0-0 \
     libgdk-pixbuf2.0-0 \
-    libcairo2 \
     libffi-dev \
-    libgobject-2.0-0 \
+    libglib2.0-0 \
+    libgirepository1.0-dev \
     libxml2 \
     libxslt1.1 \
     librsvg2-2 \
