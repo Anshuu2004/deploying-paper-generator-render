@@ -1,4 +1,0 @@
-# nixpacks.toml
-
-[phases.setup]
-pkgs = ["pango", "cairo", "gobject-introspection", "libxml2", "libxslt", "librsvg"]
